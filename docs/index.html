@@ -6,32 +6,72 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
   <meta name="description" content="Description">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
-  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-defaults.css">
+
+  <style>
+    :root {
+      /*Common*/
+      --theme-color                                 : #401c4a;
+      --link-color                                  : #401c4a;
+
+      /*Sidebar*/
+      --sidebar-background                          : #401c4a;
+      --sidebar-name-color                          : white;
+      --sidebar-nav-link-color                      : white;
+      --sidebar-nav-link-padding                    : 0.1em 0;
+
+
+      /*Search*/
+      --search-background                      : white;
+      --search-clear-icon-color1               : white;;
+      --search-clear-icon-color2               : black;
+      --search-result-item-margin              : 1em;
+
+
+    }
+    .sidebar-nav li{
+      color: white;
+      margin: 0;
+      padding: 0;
+    }
+
+
+  </style>
 
 </head>
 <body>
   <div id="app"></div>
   <script>
     window.$docsify = {
+      name: 'Avoimen julkaisemisen palveluiden ohjeet',
       homepage: 'index.md',
       loadSidebar: true,
+      maxLevel: 0,
+      subMaxLevel: 0,
       auto2top: true,
       search: {
+        maxAge: 10,        
         placeholder: 'Hae',
         noData: 'Ei osumia.',
-        depth: 2,
-      }
+        paths: 'auto',
+        depth: 6,
+      },
+      pagination: {
+        previousText: 'Edellinen',
+        nextText: 'Seuraava',
+        crossChapter: true,
+        crossChapterText: true,
+      },
 
     }
   </script>
 
-  <!-- Docsify v4 -->
   <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
   <script src="//cdn.jsdelivr.net/npm/docsify-themeable@0/dist/js/docsify-themeable.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify@4/lib/plugins/zoom-image.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify@4/lib/plugins/search.js"></script>
+  <script src="//unpkg.com/docsify-pagination/dist/docsify-pagination.min.js"></script>
 
-    <!-- Recommended -->
-    <script src="//cdn.jsdelivr.net/npm/docsify@4/lib/plugins/zoom-image.min.js"></script>
-    <script src="//cdn.jsdelivr.net/npm/docsify@4/lib/plugins/search.js"></script>
 
 </body>
 </html>
