@@ -1,4 +1,4 @@
-# Rinnakkaistallennus ja SHERPA/RoMEO
+# Rinnakkaistallennus ja Sherpa Romeo
 
 ## Mikä ja miksi?
 
