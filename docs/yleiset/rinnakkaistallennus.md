@@ -6,7 +6,7 @@ Sherpa Romeo on palvelu, josta voi tarkistaa julkaisijan suhtautumisen rinnakkai
 
 Rinnakkaistallentaminen tehostaa osaltaan lehden artikkeleiden ja koko lehden saamaa näkyvyyttä. Rinnakkaistallennus on myös yksi tapa täyttää [Plan S -konsortion kriteerit avoimuudelle (englanniksi)](https://coalition-s.org/about/). **Suhtautuminen rinnakkaistallennukseen kannattaa ilmoittaa Sherpa Romeo -palvelussa myös siinä tapauksessa, että lehti ei salli mitään rinnakkaistallennusta**. 
 
-Palveluun rekisteröityminen on ilmaista ja vaatii vain kertaluontoisen työpanoksen. Julkaisijan on myös mahdollista ilmoittaa kerralla kaikki lehdet, joilla sama politiikka. Mahdolliset muutokset tulee kuitenkin päivittää palveluun mahdollisimman pian.
+Palveluun rekisteröityminen on ilmaista ja vaatii vain kertaluontoisen työpanoksen. Julkaisijan on myös mahdollista ilmoittaa kerralla kaikki lehdet, joilla on samat käytännöt. Mahdolliset muutokset tulee kuitenkin päivittää palveluun mahdollisimman pian.
 
 Lisätietoja rinnakkaistallennuksesta löytyy esimerkiksi Jyväskylän yliopiston kotisivuilta:
 
@@ -14,7 +14,7 @@ Lisätietoja rinnakkaistallennuksesta löytyy esimerkiksi Jyväskylän yliopisto
 * [https://openscience.jyu.fi/fi/rinnakkaistallentaminen/artikkelin-eri-versiot](https://openscience.jyu.fi/fi/rinnakkaistallentaminen/artikkelin-eri-versiot)
 * [https://openscience.jyu.fi/fi/rinnakkaistallentaminen/rinnakkaistallentamisen-hyodyt](https://openscience.jyu.fi/fi/rinnakkaistallentaminen/rinnakkaistallentamisen-hyodyt)
 
-Sherpa Romeo -palvelun [omat käyttöohjeet löytyvät palvelun kotisivuilta](https://v2.sherpa.ac.uk/romeo/help.html).
+Sherpa Romeo -palvelun [omat käyttöohjeet löytyvät palvelun kotisivuilta (englanniksi)](https://v2.sherpa.ac.uk/romeo/help.html).
 
 ## Lehden tietojen ilmoittaminen Sherpa Romeo -tietokantaan
 
@@ -42,11 +42,11 @@ Jos julkaisusarjan tai julkaisijan tiedot löytyvät jo palvelusta, tietojen mah
 
 ![Muutoksen ehdottaminen](../_media/rinnakkaistallennus-1.png "Muutoksen ehdottaminen")
 
+### Hakulomake
+
 Lomake täytetään jokaiselle julkaisusarjalle erikseen. Mikäli kuitenkin useampi saman julkaisijan sarja noudattaa samoja julkaisukäytäntöjä, voi tietojen ilmoittamista nopeuttaa lomakkeessa neuvotulla tavalla (Excel-liite). Jos julkaisijan tietoja ei ole rekisteröity palveluun aiemmin, ne lisätään ensimmäisen sarjan lisäämisen yhteydessä.
 
 [Linkki Sherpa Romeon hakulomakkeelle (englanniksi).](https://www.jisc.ac.uk/forms/submit-a-new-record-to-sherpa-romeo)
-
-### Hakulomake
 
 #### Your details
 

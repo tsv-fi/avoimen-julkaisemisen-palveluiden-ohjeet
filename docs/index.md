@@ -1,5 +1,7 @@
 # TSV:n avoimen julkaisemisen palveluiden ohjeet
 
+Ohjeita Tieteellisten seurain valtuuskunnan ylläpitämien Journal.fi- ja Edition.fi palveluiden käyttöön.
+
 - [Etusivu](/ "TSV:n avoimen julkaisemisen palveluiden ohjeet")
 - Yleiset ohjeet
     - [Palveluun liittyminen](yleiset/liittyminen.md)
