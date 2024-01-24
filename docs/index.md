@@ -8,7 +8,7 @@ Ohjeita Tieteellisten seurain valtuuskunnan ylläpitämien Journal.fi- ja Editio
     - [Tukipyyntöjen tekeminen](yleiset/tukipyynnot.md)
     - [Tiedotuslista](yleiset/tiedotuslista.md)
     - [Ulkoasun ja navigoinnin muokkaus](yleiset/ulkoasu.md)
-    - [Creative Commons -lisenssien käyttö](yleiset/lisenssit.md)
+    - [Tekijänoikeus ja Creative Commons -lisenssit](yleiset/tekijanoikeus-ja-lisenssit.md)
     - [Rinnakkaistallennus ja Sherpa Romeo](yleiset/rinnakkaistallennus.md)
 - Journal.fi
     - [DOAJ](journal-fi/doaj.md)
