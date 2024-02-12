@@ -7,6 +7,7 @@
   <meta name="description" content="Description">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-defaults.css">
+  <link rel="stylesheet" href="_includes/toc.css">
 
   <style>
   @import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Oswald:wght@400;600;700&display=swap');
@@ -68,6 +69,11 @@
         formatUpdated: "{DD}.{MM}.{YYYY}",
         whereToPlace: "bottom",
       },
+      toc: {
+        scope: '.markdown-section',
+        headings: 'h2',
+        title: 'Sisällys',
+      },
     }
   </script>
 
@@ -77,6 +83,9 @@
   <script src="//cdn.jsdelivr.net/npm/docsify@4/lib/plugins/search.js"></script>
   <script src="//unpkg.com/docsify-pagination/dist/docsify-pagination.min.js"></script>
   <script src="//cdn.jsdelivr.net/npm/docsify-updated/src/time-updater.min.js"></script>
+  <script src="https://unpkg.com/docsify-toc@1.0.0/dist/toc.js"></script>
+
+
 
 </body>
 </html>

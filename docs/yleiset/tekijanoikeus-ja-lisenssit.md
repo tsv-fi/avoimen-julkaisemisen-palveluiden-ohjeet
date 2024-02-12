@@ -81,7 +81,7 @@ Tekijänoikeuksia koskevat kuvaukset on hyvä lisätä kahteen asetukseen.
 
 #### Tekijänoikeushuomautus
 
-Käsikirjoitusta lähetettäessä käyttäjälle voidaan näyttää tekijänoikeuksista kertova teksti, joka hänen pitää hyväksyä. Tähän tekstissä on hyvä kertoa ainakin kenelle tekijänoikeus julkaistuissa artikkeleissa kuuluu, mitä lisenssiä käytetään ja millaisia kirjoittajasopimuksia on käytössä. Kirjoittajasopimuksen tekstin voi myös linkittää tekstiin.
+Käsikirjoitusta lähetettäessä käyttäjälle voidaan näyttää tekijänoikeuksista kertova teksti, joka hänen pitää hyväksyä. Tähän tekstissä on hyvä kertoa ainakin kenelle tekijänoikeus julkaistuissa artikkeleissa kuuluu, mitä lisenssiä käytetään ja millaisia kirjoittajasopimuksia on käytössä. Kirjoittajasopimuksen tekstin voi myös linkittää tekstiin Tekijänoikeushuomautus näkyy myös käsikirjoituksen lähetystä koskevalla sivulla polussa about/submissions.
 
 Asetus löytyy kohdasta **Asetukset > Työnkulku > Käsikirjoituksen vastaanotto > Kirjoittajan ohjeet > Tekijänoikeushuomautus / Settings > Workflow > Submission > Author Guidelines > Copyright Notice / Inställningar > Arbetsflöde > Bidrag > Riktlinjer för författare > Upphovsrättsdeklaration**
 

@@ -13,6 +13,6 @@ Ohjeita Tieteellisten seurain valtuuskunnan ylläpitämien Journal.fi- ja Editio
     - [Tekijänoikeus ja Creative Commons -lisenssit](yleiset/tekijanoikeus-ja-lisenssit.md)
     - [Rinnakkaistallennus ja Sherpa Romeo](yleiset/rinnakkaistallennus.md)
 - Journal.fi
-    - [DOAJ](journal-fi/doaj.md)
+    - [Directory of Open Access Journals (DOAJ) -tietokanta ja Journal.fi](journal-fi/doaj.md)
 - Edition.fi
     - [esim](edition-fi/esim.md)
