@@ -5,15 +5,17 @@
     - [Liittyminen palveluun](yleiset/liittyminen.md)
     - [Tukipyynnöt](yleiset/tukipyynnot.md)
     - [Tiedotuslista](yleiset/tiedotuslista.md)
-    - [UKK](https://tuki.tsv.fi/kb/faq.php?cid=1)    
+    - [UKK](https://tuki.tsv.fi/kb/faq.php?cid=1)
 - Palvelujen yhteiset ohjeet
     - [Sivuston ulkoasu](yleiset/ulkoasu.md)
     - [Sivuston navigointi](yleiset/navigointi.md)
     - [Tekijänoikeus ja CC-lisenssit](yleiset/tekijanoikeus-ja-lisenssit.md)
     - [Rinnakkaistallennus ja Sherpa Romeo](yleiset/rinnakkaistallennus.md)
+    - [DOI-tunnisteet](yleiset/doi.md)
 - Journal.fi
     - [Artikkeleiden näkyvyys](journal-fi/artikkeleiden-nakyvyys.md)
     - [DOAJ](journal-fi/doaj.md)
     - [Vertaisarviointitunnus](journal-fi/vertaisarviointitunnus.md)
+    - [DOI ja Journal.fi](journal-fi/doi.md)
 - Edition.fi
-    - [esim](edition-fi/esim.md)
+    - [DOI ja Edition.fi](edition-fi/doi.md)
