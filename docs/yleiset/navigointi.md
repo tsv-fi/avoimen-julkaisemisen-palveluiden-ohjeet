@@ -26,11 +26,11 @@ Muista aina painaa lopuksi **Tallenna** lomakkeen alaosasta.
 
 ## Kohteen lisääminen navigaatiovalikkoon
 
-Kaikki valikkoon valittavissa olevat kohteet on listattuna kohtaan **Navigaatiovalikon kohteet/Navigation Menu Items**. Klikkaamalla yksittäisen kohteen edessä olevaa sinistä kolmiota ja valitsemalla **Muokkaa/Edit **pääset muuttamaan sen tietoja.
+Kaikki valikkoon valittavissa olevat kohteet on listattuna kohtaan **Navigaatiovalikon kohteet/Navigation Menu Items**. Klikkaamalla yksittäisen kohteen edessä olevaa sinistä kolmiota ja valitsemalla **Muokkaa/Edit** pääset muuttamaan sen tietoja.
 
 ![Navigaatiovalikon kohteet](../_media/ulkoasu-3.png "Navigaatiovalikon kohteet")
 
-Uuden kohteen voi lisätä valitsemalla** Lisää kohde/Add item**.
+Uuden kohteen voi lisätä valitsemalla **Lisää kohde/Add item**.
 
 Avautuvasta lomakkeessa annetaan ensin kohteelle nimi, jolla se näkyy navigaatiotivalikkoa muokattaessa. Kohteen tyyppi valitaan vetovalikosta.
 

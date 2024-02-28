@@ -13,6 +13,7 @@
     - [Rinnakkaistallennus ja Sherpa Romeo](yleiset/rinnakkaistallennus.md)
     - [DOI-tunnisteet](yleiset/doi.md)
 - Journal.fi
+    - [Pikajulkaisu](journal-fi/pikajulkaisu.md)
     - [Artikkeleiden näkyvyys](journal-fi/artikkeleiden-nakyvyys.md)
     - [DOAJ](journal-fi/doaj.md)
     - [Vertaisarviointitunnus](journal-fi/vertaisarviointitunnus.md)

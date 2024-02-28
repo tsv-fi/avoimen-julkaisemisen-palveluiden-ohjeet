@@ -36,16 +36,18 @@ Koulutuksen ja mahdollisen testauksen jälkeen voidaan perustaa sivusto varsinai
 
 Sivusto pidetään aluksi piilotettuna. Tänä aikana sivustoa pääsevät katsomaan ainoastaan toimituskunnan jäsenet. Toimituskunta muokkaa aluksi asetukset vastaamaan julkaisijan toimituksellista linjaa. Tähän saa tarvittaessa tukea ohjetiedostosta sekä TSV:ltä ([tuki@tsv.fi](mailto:tuki@tsv.fi)). 
 
-Tässä vaiheessa sivustolle voidaan rakentaa myös oma ulkoasuteema, josta on kerrottu omassa ohjeessa.
-
-Tässä vaiheessa kannattaa tutustua myös muihin palvelun ohjeisiin:
-
-[Journal.fi-palvelun ohjeet](https://docs.google.com/document/d/1DjSMTzeSZKyz4TVMppGe2vmYyZ7TB340QfSxP1J30z8/edit?usp=sharing).
+Tässä vaiheessa sivustolle voidaan rakentaa myös oma [ulkoasuteema](yleiset/ulkoasu.md), josta on kerrottu omassa ohjeessa. Kannattaa tutustua samalla myös muihin palvelun ohjeisiin: [Journal.fi-palvelun ohjeet](index.md).
 
 Pyynnön perustaa varsinainen sivusto voi lähettää osoitteeseen tuki@tsv.fi
 
-## 6. Sivuston julkaisu
+## 6. Tiedotuslista
+
+Varmista, että saat palvelun käyttöön liittyvät tiedotteet liittymällä [avoimen julkaisemisen palveluiden tiedotuslistalle](yleiset/tiedotuslista.md).
+
+## 7. Sivuston julkaisu
 
 Viimeinen vaihe on sivuston julkaisu, kun asetukset ja ulkoasu ovat kunnossa. Sivuston julkistaminen onnistuu vain palvelun ylläpitäjän, eli TSV:n, toimesta. 
 
 Julkaisun jälkeen myös ulkopuoliset käyttäjät pääsevät sivustolle ja se listautuu palvelun etusivulle. Myös hakukoneet pääsevät indeksoimaan julkaistuja sisältöjä.
+
+

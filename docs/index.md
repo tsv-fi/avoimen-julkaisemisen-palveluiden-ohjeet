@@ -1,6 +1,6 @@
 # TSV:n avoimen julkaisemisen palveluiden ohjeet
 
-Ohjeita Tieteellisten seurain valtuuskunnan ylläpitämien Journal.fi- ja Edition.fi palveluiden käyttöön.
+Ohjeita Tieteellisten seurain valtuuskunnan ylläpitämien Journal.fi- ja Edition.fi palveluiden käyttöön. Ohjetiedostoja koskevaa palautetta tai korjausehdotuksia voi lähettää osoitteeseen [tuki@tsv.fi](mailto:tuki@tsv.fi).
 
 - [Etusivu](/ "TSV:n avoimen julkaisemisen palveluiden ohjeet")
 - Liittyminen ja tuki
@@ -15,6 +15,7 @@ Ohjeita Tieteellisten seurain valtuuskunnan ylläpitämien Journal.fi- ja Editio
     - [Rinnakkaistallennus ja Sherpa Romeo](yleiset/rinnakkaistallennus.md)
     - [DOI-tunnisteet](yleiset/doi.md)
 - Journal.fi
+    - [Journal.fi-palvelun käyttö pelkässä julkaisukäytössä](journal-fi/pikajulkaisu.md)
     - [Artikkeleiden näkyvyys ja Journal.fi](journal-fi/artikkeleiden-nakyvyys.md)
     - [Directory of Open Access Journals (DOAJ) -tietokanta ja Journal.fi](journal-fi/doaj.md)
     - [Vertaisarviointitunnus ja Journal.fi](journal-fi/vertaisarviointitunnus.md)

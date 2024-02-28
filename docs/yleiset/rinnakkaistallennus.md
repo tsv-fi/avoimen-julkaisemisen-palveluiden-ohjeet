@@ -1,4 +1,4 @@
-# Rinnakkaistallennus ja Sherpa Romeo
+# Rinnakkaistallennus ja Sherpa Romeo -palvelu
 
 ## Mikä ja miksi?
 
@@ -6,7 +6,7 @@ Sherpa Romeo on palvelu, josta voi tarkistaa julkaisijan suhtautumisen rinnakkai
 
 Rinnakkaistallentaminen tehostaa osaltaan lehden artikkeleiden ja koko lehden saamaa näkyvyyttä. Rinnakkaistallennus on myös yksi tapa täyttää [Plan S -konsortion kriteerit avoimuudelle (englanniksi)](https://coalition-s.org/about/). **Suhtautuminen rinnakkaistallennukseen kannattaa ilmoittaa Sherpa Romeo -palvelussa myös siinä tapauksessa, että lehti ei salli mitään rinnakkaistallennusta**. 
 
-Palveluun rekisteröityminen on ilmaista ja vaatii vain kertaluontoisen työpanoksen. Julkaisijan on myös mahdollista ilmoittaa kerralla kaikki lehdet, joilla on samat käytännöt. Mahdolliset muutokset tulee kuitenkin päivittää palveluun mahdollisimman pian.
+Palveluun rekisteröityminen on ilmaista ja vaatii vain kertaluontoisen työpanoksen. Julkaisijan on myös mahdollista ilmoittaa kerralla kaikki lehdet, joilla sama politiikka. Mahdolliset muutokset tulee kuitenkin päivittää palveluun mahdollisimman pian.
 
 Lisätietoja rinnakkaistallennuksesta löytyy esimerkiksi Jyväskylän yliopiston kotisivuilta:
 
@@ -14,7 +14,8 @@ Lisätietoja rinnakkaistallennuksesta löytyy esimerkiksi Jyväskylän yliopisto
 * [https://openscience.jyu.fi/fi/rinnakkaistallentaminen/artikkelin-eri-versiot](https://openscience.jyu.fi/fi/rinnakkaistallentaminen/artikkelin-eri-versiot)
 * [https://openscience.jyu.fi/fi/rinnakkaistallentaminen/rinnakkaistallentamisen-hyodyt](https://openscience.jyu.fi/fi/rinnakkaistallentaminen/rinnakkaistallentamisen-hyodyt)
 
-Sherpa Romeo -palvelun [omat käyttöohjeet löytyvät palvelun kotisivuilta (englanniksi)](https://v2.sherpa.ac.uk/romeo/help.html).
+Sherpa Romeo -palvelun [omat käyttöohjeet löytyvät palvelun kotisivuilta](https://v2.sherpa.ac.uk/romeo/help.html).
+
 
 ## Lehden tietojen ilmoittaminen Sherpa Romeo -tietokantaan
 
@@ -40,13 +41,49 @@ Vaadittavat tiedot voivat olla julkaisusarjan verkkosivuilla millä kielellä ta
 
 Jos julkaisusarjan tai julkaisijan tiedot löytyvät jo palvelusta, tietojen mahdollinen päivittäminen tehdään **Suggest an update for this record** -lomakkeella, joka löytyy tallennetun tietueen lopusta. Esimerkiksi [Finnish Historical Society (englanniksi)](https://v2.sherpa.ac.uk/id/publisher/1820).
 
-![Muutoksen ehdottaminen](../_media/rinnakkaistallennus-1.png "Muutoksen ehdottaminen")
 
-### Hakulomake
+![Julkasijan tietojen muokkaus](../_media/rinnakkaistallennus-1.png "Julkasijan tietojen muokkaus")
+
+Sherpa Romeolla on käytössä kaksi eri lomaketta uusien julkaisusarjojen lisäämiseen palveluun. Lomake valitaan sen perusteella, löytyvätkö julkaisijan tiedot palvelusta jo entuudestaan, vai ei.
+
+* Lomake A: [Käytä tätä hakulomaketta, jos sarjan julkaisija ei löydy entuudestaan Sherpa Romeosta (englanniksi).](https://www.jisc.ac.uk/forms/submit-a-new-record-for-a-publisher-not-already-listed-in-sherpa-romeo) Julkaisijan tiedot tallennetaan palveluun ensimmäisen sarjan lisäämisen yhteydessä.
+* Lomake B: [Käytä tätä hakulomaketta, jos sarjan julkaisijan tiedot löytyvät jo Sherpa Romeosta (englanniksi).](https://www.jisc.ac.uk/forms/submit-a-new-journal-request-for-a-publisher-already-listed-in-sherpa-romeo)
 
 Lomake täytetään jokaiselle julkaisusarjalle erikseen. Mikäli kuitenkin useampi saman julkaisijan sarja noudattaa samoja julkaisukäytäntöjä, voi tietojen ilmoittamista nopeuttaa lomakkeessa neuvotulla tavalla (Excel-liite). Jos julkaisijan tietoja ei ole rekisteröity palveluun aiemmin, ne lisätään ensimmäisen sarjan lisäämisen yhteydessä.
 
-[Linkki Sherpa Romeon hakulomakkeelle (englanniksi).](https://www.jisc.ac.uk/forms/submit-a-new-record-to-sherpa-romeo)
+### Asetukset Journal.fi- ja Edition.fi-palveluissa
+
+Tarkista Journal.fi- tai Edition.fi-palvelussa olevasta sivustosta ainakin seuraavat asiat. Annettavien kuvausten ei tarvitse olla englanniksi, vaan ne voivat olla myös esimerkiksi suomeksi tai ruotsiksi.
+
+#### Julkaisusarjaa koskevat tiedot
+
+* **ISSN-tunnukset**
+    * Anna ISSN-tunnukset kohtaan **Asetukset => Julkaisu => Tunnuslaatikko => Verkkojulkaisun ISSN / Painetun julkaisun ISSN**
+    * Mainitse ISSN-tunnukset myös asetusten kohdassa **Asetukset => Julkaisu => Tunnuslaatikko => Tietoa julkaisusta**.
+* **Toimituskunta**
+    * Anna toimituskunnan tiedot koskeva kuvaus kohtaan **Asetukset => Julkaisu => Tunnuslaatikko => Toimituskunta**.
+* **Lehden avoimuutta koskeva linjaus**
+    * Anna kuvaus kohtaan **Asetukset => Julkaisu => Tunnuslaatikko => Tietoa julkaisusta**.
+* **Rinnakkaistallennus**
+    * Anna kuvaus suhtautumisesta rinnakkaistallennukseen kohtaan **Asetukset => Julkaisu => Tunnuslaatikko => Tietoa julkaisusta**
+    * Muista huomioida mitä käsikirjoituksen versiota (submitted, accepted, published)  linjaukset koskevat
+* **Lisenssit ja tekijänoikeus**
+    * Määritä lehden lisenssejä ja tekijänoikeutta koskevat asetukset kohtaan **Asetukset => Jakelu => Lisenssi** ja **Asetukset => Jakelu => Tekijänoikeuden haltija**
+    * Anna kuvaus käytössä olevista lisensseistä ja tekijänoikeudesta kohtaan **Asetukset > Työnkulku > Käsikirjoituksen vastaanotto > Kirjoittajan ohjeet > Tekijänoikeushuomautus**
+
+
+#### Julkaisijaa koskevat tiedot
+
+* **Julkaisijan nimi**
+    * Anna julkaisijan nimi kohtaan **Asetukset => Julkaisu => Tunnuslaatikko => Julkaisija**
+    * Mainitse julkaisijan yhteystiedot myös asetusten kohdassa **Asetukset => Julkaisu => Tunnuslaatikko => Tietoa julkaisusta**.
+* **Julkaisutoiminnan eettiset periaatteet**
+    * Anna eettisiä periaatteita koskeva kuvaus kohtaan **Asetukset => Julkaisu => Tunnuslaatikko => Tietoa julkaisusta**.
+    * Vaihtoehtoisesti voit luoda tätä varten kokonaan oman sivun. Katso tähän liittyen ohje navigaatiovalikon muokkauksesta. Tiedot voivat olla myös julkaisijan (esimerkiksi julkaisevan seuran) kotisivuilla.
+
+### Hakulomake
+
+Ohjeet ovat suurilta osin samat molemmille hakulomakkeen versioille. Kohdat, joissa lomakkeet eroavat toisistaan, on merkitty ohjeeseen.
 
 #### Your details
 
@@ -66,7 +103,7 @@ Jos julkaisijaa ei löydy lainkaan, annetaan sen tiedot nyt täytettävällä lo
 
 Governing Body URL: Osoite tulee johtaa sivulle, jossa esitellään julkaisusarjaa hallinnoiva taho. Se on taho, joka tekee julkaisusarjaan liittyviä hallinnollisia päätöksiä, eli päättää esimerkiksi siirtymisestä kokonaan avoimeen julkaisemiseen. Tiedeseurojen tapauksessa se voi olla esimerkiksi seuran hallitus.
 
-Publication ethics URL: Osoitteen tulee johtaa sivustolle, jossa on kerrottu millaisia eettisiä periaatteita julkaisutoiminnassa noudatetaan. Nämä voivat liittyä esimerkiksi plagiointiin, vertaisarviointiin, toimituskäytäntöihin jne.
+Publication ethics URL:** **Osoitteen tulee johtaa sivustolle, jossa on kerrottu millaisia eettisiä periaatteita julkaisutoiminnassa noudatetaan. Nämä voivat liittyä esimerkiksi plagiointiin, vertaisarviointiin, toimituskäytäntöihin jne.
 
 #### Open Access policy details
 
@@ -105,6 +142,6 @@ Kysyttävät tarkentavat tiedot:
     * Written permission must be obtained from the publisher = Rinnakkaistallennukseen vaaditaan julkaisijan kirjallinen lupa.
 * Vain julkaistu versio: Tallentaako julkaisija artikkelin avoimeen repositorioon?
 
-#### If you have more than one journal…
+### Useamman julkaisusarjan käytäntöjen ilmoittaminen
 
 Jos samoja periaatteita noudatetaan useammassa saman julkaisijan julkaisusarjassa, lomaketta ei tarvitse täyttää erikseen jokaiselle sarjalle, vaan tieto sarjoista voidaan koota hakulomakkeelta ladattavaan Excel-taulukkoon. Taulukossa kysytään jokaisesta sarjasta nimi, ISSN-tunnus tai -tunnukset, linkki julkaisusarjan kotisivulle sekä linkki sivulle, jolta löytyyt tieto julkaisusarjan toimituskunnasta.

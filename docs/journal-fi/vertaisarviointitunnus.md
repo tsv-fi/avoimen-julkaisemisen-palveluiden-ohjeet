@@ -11,6 +11,7 @@ Vertaisarviointitunnusta koskeva kuvaus lisätään lehden esittelyyn kohtaan _T
 
 > **Vertaisarviointi**<br/>
 > Käytämme Tieteellisten seurain valtuuskunnan (TSV) myöntämää vertaisarviointitunnusta. Olemme sitoutuneet noudattamaan tunnuksen käytölle asetettuja ehtoja sekä edistämään omassa toiminnassamme Suomen tiedekustantajien liiton vertaisarviointiohjeen ja Tutkimuseettisen neuvottelukunnan Hyvä tieteellinen käytäntö -ohjeen mukaisia periaatteita.
+> ![Vertaisarviointitunnus](../_media/vertu1.png "Vertaisarviointitunnus")
 
 Logoon on hyvä lisätä linkki haluttuun kieliversioon: 
 * [https://www.tsv.fi/fi/palvelut/tunnus](https://www.tsv.fi/fi/palvelut/tunnus)
@@ -21,9 +22,7 @@ Tunnuksen kuva löytyy sopivassa koossa osoitteesta [https://journal.fi/plugins/
 
 Vertaisarviointitunnusta koskevan tekstin lisäksi sivustolla tulee kuvata myös tarkemmin lehden vertaisarviointiprosessi. Mikäli lehdellä ei ole vielä sopivaa esittelytekstiä, kannattaa ottaa mallia muiden suomalaisten tiedelehtien kuvauksista. Katso esimerkiksi [Vertaisarviointiprosessi Työväen historian ja perinteen tutkimuksen seuran julkaisuissa](http://www.thpts.fi/julkaisut/vertaisarviointiprosessi-tyovaen-historian-ja-perinteen-tutkimuksen-seuran-thpts-julkaisuissa/).
 
-
 ## Vertaisarviointitunnuksen lisääminen artikkeleihin 
-
 
 ### TsvVertu-lisäosan aktivointi
 
@@ -31,7 +30,7 @@ Tunnuksen lisääminen yksittäisiin artikkeleihin onnistuu erillisen lisäosan 
 
 Etsi luettelosta “TsvVertu” ja aktivoi se klikkaamalla lisäosan perässä oleva valintalaatikko.
 
-![alt_text](images/image1.png "image_tooltip")
+![TsvVertu-lisäosan aktivointi](../_media/vertu2.png "TsvVertu-lisäosan aktivointi")
 
 ### Tunnuksen liittäminen uusiin artikkeleihin
 
