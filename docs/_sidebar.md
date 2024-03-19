@@ -12,6 +12,7 @@
     - [Tekijänoikeus ja CC-lisenssit](yleiset/tekijanoikeus-ja-lisenssit.md)
     - [Rinnakkaistallennus ja Sherpa Romeo](yleiset/rinnakkaistallennus.md)
     - [DOI-tunnisteet](yleiset/doi.md)
+    - [Aineistojen tuonti](yleiset/tuonnit.md)
 - Journal.fi
     - [Pikajulkaisu](journal-fi/pikajulkaisu.md)
     - [Artikkeleiden näkyvyys](journal-fi/artikkeleiden-nakyvyys.md)

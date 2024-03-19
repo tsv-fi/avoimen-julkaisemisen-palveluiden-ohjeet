@@ -14,6 +14,7 @@ Ohjeita Tieteellisten seurain valtuuskunnan ylläpitämien Journal.fi- ja Editio
     - [Tekijänoikeus ja Creative Commons -lisenssit](yleiset/tekijanoikeus-ja-lisenssit.md)
     - [Rinnakkaistallennus ja Sherpa Romeo](yleiset/rinnakkaistallennus.md)
     - [DOI-tunnisteet](yleiset/doi.md)
+    - [Vanhojen aineistojen tuonti](yleiset/tuonnit.md)
 - Journal.fi
     - [Journal.fi-palvelun käyttö pelkässä julkaisukäytössä](journal-fi/pikajulkaisu.md)
     - [Artikkeleiden näkyvyys ja Journal.fi](journal-fi/artikkeleiden-nakyvyys.md)
