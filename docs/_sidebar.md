@@ -19,5 +19,6 @@
     - [DOAJ](journal-fi/doaj.md)
     - [Vertaisarviointitunnus](journal-fi/vertaisarviointitunnus.md)
     - [DOI ja Journal.fi](journal-fi/doi.md)
+    - [Ennakkojulkaisu](journal-fi/ennakkojulkaisu.md)
 - Edition.fi
     - [DOI ja Edition.fi](edition-fi/doi.md)
