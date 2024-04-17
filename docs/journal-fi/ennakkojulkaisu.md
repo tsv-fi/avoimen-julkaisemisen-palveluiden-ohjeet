@@ -1,8 +1,8 @@
 # Artikkeleiden ennakkojulkaisu ja Journal.fi
 
-OJS-järjestelmään on saatavissa lisäosa, jolla voi julkaista artikkeleita ennakkoon, eli ennen kuin varsinainen numero on julkaistu.
+OJS-järjestelmään on saatavissa lisäosa (Tulevat artikkelit / Forthcoming / Kommande artiklar), jolla voi julkaista artikkeleita ennakkoon, eli ennen kuin varsinainen numero on julkaistu.
 
-## Tulevat artikkelit / Forthcoming -lisäosan käyttöönotto
+## Lisäosan käyttöönotto
 
 1. Siirry numeroiden hallintaan ja luo uusi numero. Anna numerolle erottuva nimi, esimerkiksi ”Tulevat artikkelit”. Numeron asetuksissa kannattaa siis antaa pelkkä otsikko ja jättää muut tiedot (numero, vol.) pois. Rastita täytettäviksi kentiksi pelkästään Otsikko.
 
@@ -10,12 +10,12 @@ OJS-järjestelmään on saatavissa lisäosa, jolla voi julkaista artikkeleita en
 
 Julkaise Forthcoming-numero. Muista jättää numeron julkaisun yhteydessä lehden käyttäjille menevä ilmoitus pois.
 
-Tässä yhteydessä järjestelmä merkitsee numeron uusimmaksi, mutta voit palauttaa oikean uusimman numeron klikkaamalla sinistä kolmiota oikean numeron kohdalta ja sieltä edelleen **Uusin numero / Current issue**.
+Tässä yhteydessä järjestelmä merkitsee numeron uusimmaksi, mutta voit palauttaa oikean uusimman numeron klikkaamalla sinistä kolmiota oikean numeron kohdalta ja sieltä edelleen **Uusin numero / Current issue  / Senaste numret**.
 
 
-2. Siirry **Asetukset > Verkkosivusto > Lisäosat / Settings > Website > Plugins**.
+2. Siirry **Asetukset > Verkkosivusto > Lisäosat / Settings > Website > Plugins / Inställningar > Webbplats > Plugins**.
 
-Ota Forthcoming-lisäosa käyttöön aktivoimalla sen perässä oleva valintaruutu. Tämän jälkeen klikkaa sinistä kolmiota lisäosan nimen edestä ja avaa lisäosan asetukset.
+Ota Tulevat artikkelit / Forthcoming / Kommande artiklar -lisäosa käyttöön aktivoimalla sen perässä oleva valintaruutu. Tämän jälkeen klikkaa sinistä kolmiota lisäosan nimen edestä ja avaa lisäosan asetukset.
 
 ![Lisäosan aktivointi](../_media/ennakkojulkaisu-2.png "Lisäosan aktivointi")
 
@@ -23,7 +23,7 @@ Valitse asetuksissa näkyvästä luettelosta lisäämäsi Forthcoming-numero ja 
 
 ![Numeron valinta](../_media/ennakkojulkaisu-3.png "Numeron valinta")
 
-3. Siirry **Asetukset > Verkkosivusto > Asetukset > Navigaatiovalikot / Settings > Website > Setup > Navigation**.
+3. Siirry **Asetukset > Verkkosivusto > Asetukset > Navigaatiovalikot / Settings > Website > Setup > Navigation / Inställningar > Webbplats > Inställning > Navigationsmenyer**.
 
 ![Lisääminen navigaatioon](../_media/ennakkojulkaisu-4.png "Lisääminen navigaatioon")
 
@@ -42,14 +42,13 @@ Lisäosan asetukset ovat nyt valmiit.
 
 ## Artikkelin ennakkojulkaisu
 
-Kun haluat ennakkojulkaista artikkelin, siirry normaalisti julkaisemaan artikkelia **Ajoita julkaistavaksi / Schedule for publication**.
-
+Kun haluat ennakkojulkaista artikkelin, siirry normaalisti julkaisemaan artikkelia **Ajoita julkaistavaksi / Schedule for publication / Planera för publicering**.
 
 ![Ajoita julkaistavaksi](../_media/ennakkojulkaisu-7.png "Ajoita julkaistavaksi")
 
 Lisää tarvittaessa DOI-tunnus, kohdasta tunnisteet. Muista tallentaa asetus.
 
-Valitse kohdasta **Issue / Numero** numeroksi tulevien artikkeleiden numero **Assign to issue / Lisää numeroon**.
+Valitse kohdasta **Issue / Numero / Nummer** numeroksi tulevien artikkeleiden numero **Assign to issue / Lisää numeroon / Tilldela till ett nummer**.
 
 ![Numeron valinta](../_media/ennakkojulkaisu-8.png "Numeron valinta")
 
@@ -61,7 +60,7 @@ Valitse kohdasta **Issue / Numero** numeroksi tulevien artikkeleiden numero **As
 
 Voit jo tässä vaiheessa luoda artikkelista suoraan uuden version ja liittää sen siihen tulevaan numeroon, jossa artikkelin on tarkoitus ilmestyä. Tällä tavalla artikkeli ilmestyy automaattisesti numeron julkaisun yhteydessä sen sisällysluettelossa ja poistuu tulevien artikkeleiden listalta.
 
-Valitse **Uusi versio / Create New Version**. Näkymän yläosaan ilmestyy uuden version lisäämisen jälkeen valikko, josta voi siirtyä versioiden välillä.
+Valitse **Uusi versio / Create New Version / Skapa en ny version**. Näkymän yläosaan ilmestyy uuden version lisäämisen jälkeen valikko, josta voi siirtyä versioiden välillä.
 
 Ennakkojulkaistu artikkeli näkyy verkkosivujen listauksessa ja myös sen abstraksisivulle pääsee normaalisti.
 

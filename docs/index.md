@@ -21,7 +21,8 @@ Ohjeita Tieteellisten seurain valtuuskunnan ylläpitämien Journal.fi- ja Editio
     - [Directory of Open Access Journals (DOAJ) -tietokanta ja Journal.fi](journal-fi/doaj.md)
     - [Vertaisarviointitunnus ja Journal.fi](journal-fi/vertaisarviointitunnus.md)
     - [DOI-tunnisteiden käyttö Journal.fi-palvelussa](journal-fi/doi.md)
-    - [Artikkeleiden ennakkojulkaisu](journal-fi/doi.md)
+    - [Artikkeleiden ennakkojulkaisu](journal-fi/ennakkojulkaisu.md)
+    - [Viiveellinen julkaiseminen ja maksulisäosat Journal.fi-palvelussa](journal-fi/embargo.md)
 - Edition.fi
     - [DOI-tunnisteiden käyttö Edition.fi-palvelussa](edition-fi/doi.md)
 
