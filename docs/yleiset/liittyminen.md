@@ -1,6 +1,5 @@
 # Liittyminen Journal.fi- tai Edition.fi-palveluun
 
-
 ## 1. Lue palveluiden käyttöehdot
 
 Journal.fi- ja Edition.fi-palveluiden käyttöehdot eroavat hieman toisistaan. Ehdot löydät alla olevista linkeistä.
@@ -18,19 +17,19 @@ Kirjoita viestiin ainakin seuraavat asiat:
 
 Tieteellisten seurain valtuuskunta vastaa tiedusteluun ja kertoo palvelun käyttöehdoista.
 
-Viestin voi lähettää Lena Lönngrenille: [lena.lonngren@tsv.fi](mailto:lena.lonngren@tsv.fi) tai [tuki@tsv.fi](mailto:tuki@tsv.fi)
+Viestin voi lähettää [tuki@tsv.fi](mailto:tuki@tsv.fi)
 
 ## 3. OJS/OMP-järjestelmää koskeva koulutus
 
 Ensimmäisen yhteydenoton jälkeen lehti varaa toimituskunnalleen OJS/OMP-järjestelmää koskevan koulutuksen. Koulutus kestää noin 1-2  tuntia ja sen tavoitteena on antaa yleiskuva järjestelmän ominaisuuksista. Koulutuksen perusteella julkaisija päättää haluaako se ottaa järjestelmän käyttöönsä. Koulutus on johdatus laajan ja monimuotoisen järjestelmän käyttöön. Järjestelmän täydellinen hallinta vaatii lehden omaa aktiivisuutta ja harjoittelua.
 
-## 4. Testisivuston perustaminen
+## 4. Testisivuston perustaminen (vapaaehtoinen)
 
 Julkaisijalle voidaan perustaa testisivusto erilliselle palvelimelle, jossa toimituskunta voi jatkaa järjestelmän testausta omalla ajallaan. Testipalvelimelle tehtyjä asetuksia ei siirretä TSV:n puolesta varsinaiseen tuotantosivustoon. Testipalvelimelle perustetut sivustot eivät ole julkisia ja näkyvät vain muille testipalvelimen käyttäjille. Välillä testipalvelimen sisältö saatetaan tyhjentää kokonaan.
 
-Pyynnön perustaa testilehti Viestin voi lähettää Lena Lönngrenille: lena.lonngren@tsv.fi tai tuki@tsv.fi
+Pyynnön perustaa testilehti voi lähettää tuki@tsv.fi
 
-## 5. Palveluun liittyminen ja varsinaisen sivuston perustaminen palveluun
+## 5. Sivuston perustaminen palveluun
 
 Koulutuksen ja mahdollisen testauksen jälkeen voidaan perustaa sivusto varsinaiseen Journal.fi- tai Edition.fi-palveluun. Tässä yhteydessä allekirjoitetaan myös palvelua koskeva sopimus julkaisijan sekä TSV:n välille.
 
@@ -49,5 +48,3 @@ Varmista, että saat palvelun käyttöön liittyvät tiedotteet liittymällä [a
 Viimeinen vaihe on sivuston julkaisu, kun asetukset ja ulkoasu ovat kunnossa. Sivuston julkistaminen onnistuu vain palvelun ylläpitäjän, eli TSV:n, toimesta. 
 
 Julkaisun jälkeen myös ulkopuoliset käyttäjät pääsevät sivustolle ja se listautuu palvelun etusivulle. Myös hakukoneet pääsevät indeksoimaan julkaistuja sisältöjä.
-
-
