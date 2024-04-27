@@ -30,13 +30,13 @@ Julkaisijalle voidaan perustaa testisivusto erilliselle palvelimelle, jossa toim
 
 Pyynnön perustaa testilehti Viestin voi lähettää Lena Lönngrenille: lena.lonngren@tsv.fi tai tuki@tsv.fi
 
-## 5. Palveluun liittyminen ja varsinaisen sivuston perustaminen Journal.fi-palveluun
+## 5. Palveluun liittyminen ja varsinaisen sivuston perustaminen palveluun
 
 Koulutuksen ja mahdollisen testauksen jälkeen voidaan perustaa sivusto varsinaiseen Journal.fi- tai Edition.fi-palveluun. Tässä yhteydessä allekirjoitetaan myös palvelua koskeva sopimus julkaisijan sekä TSV:n välille.
 
 Sivusto pidetään aluksi piilotettuna. Tänä aikana sivustoa pääsevät katsomaan ainoastaan toimituskunnan jäsenet. Toimituskunta muokkaa aluksi asetukset vastaamaan julkaisijan toimituksellista linjaa. Tähän saa tarvittaessa tukea ohjetiedostosta sekä TSV:ltä ([tuki@tsv.fi](mailto:tuki@tsv.fi)). 
 
-Tässä vaiheessa sivustolle voidaan rakentaa myös oma [ulkoasuteema](yleiset/ulkoasu.md), josta on kerrottu omassa ohjeessa. Kannattaa tutustua samalla myös muihin palvelun ohjeisiin: [Journal.fi-palvelun ohjeet](index.md).
+Tässä vaiheessa sivustolle voidaan rakentaa myös oma [ulkoasuteema](yleiset/ulkoasu.md), josta on kerrottu omassa ohjeessa. Kannattaa tutustua samalla myös muihin palvelun ohjeisiin: [Avoimen julkaisemisen palveluiden ohjeet](index.md).
 
 Pyynnön perustaa varsinainen sivusto voi lähettää osoitteeseen tuki@tsv.fi
 
