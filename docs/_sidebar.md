@@ -24,4 +24,5 @@
     - [Tilastot](journal-fi/tilastot.md)
     - [Vertaisarviointitunnus](journal-fi/vertaisarviointitunnus.md)
 - Edition.fi
+    - [Kirjojen julkaisu](edition-fi/julkaisu.md)
     - [DOI ja Edition.fi](edition-fi/doi.md)
