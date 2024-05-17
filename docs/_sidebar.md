@@ -9,6 +9,7 @@
 - Palvelujen yhteiset ohjeet
     - [Aineistojen tuonti](yleiset/tuonnit.md)
     - [DOI-tunnisteet](yleiset/doi.md)
+    - [Rahoittajatiedot](yleiset/rahoittajat.md)    
     - [Rinnakkaistallennus ja Sherpa Romeo](yleiset/rinnakkaistallennus.md)
     - [Sivuston navigointi](yleiset/navigointi.md)
     - [Sivuston ulkoasu](yleiset/ulkoasu.md)

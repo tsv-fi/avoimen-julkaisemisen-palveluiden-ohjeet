@@ -10,6 +10,7 @@ Ohjeita Tieteellisten seurain valtuuskunnan ylläpitämien Journal.fi- ja Editio
     - [Usein kysytyt kysymykset](https://tuki.tsv.fi/kb/faq.php?cid=1)
 - Palvelujen yhteiset ohjeet
     - [DOI-tunnisteet](yleiset/doi.md)
+    - [Rahoittajatietojen keruu](yleiset/rahoittajat.md)
     - [Rinnakkaistallennus ja Sherpa Romeo](yleiset/rinnakkaistallennus.md)
     - [Sivuston navigointi](yleiset/navigointi.md)
     - [Sivuston ulkoasu](yleiset/ulkoasu.md)
