@@ -1,0 +1,41 @@
+/* Tämä on div, johon HTML-lisäosa laittaa tekstin sisällön */
+#htmlContainer {
+	margin-top: 5%;
+	margin-bottom: 5%;
+	margin-left: auto;
+	margin-right: auto;
+	width: 90%;
+	max-width: 35em;
+}
+
+h1, h2, h3 {
+	line-height: 1.3em;
+}
+
+figure {
+	width: 100%;
+	display: block;
+	margin-left: auto;
+	margin-right: auto:;
+	margin-top: 2em;
+	margin-bottom: 2em;
+}
+
+figcaption {
+	margin-left: 2em;
+	margin-right: 2em;
+}
+
+/* Author ja affiliation tulevat ensimmäisenä jokaisen artikkelin alkuun. Niiden ulkonäköä muokataan tässä. */
+.author,
+.affiliation {
+	font-weight: normal;
+	padding: 0;
+	margin: 0;
+}
+
+/* Siirretään affiliaatiota vähän lähemmäs nimeä määrittelemällä molemmille marginaaliksi ensin 0 ja sitten affiliaatiolle alamarginaali tässä */
+.affiliation {
+	margin-bottom: 1.5em;
+}
+
