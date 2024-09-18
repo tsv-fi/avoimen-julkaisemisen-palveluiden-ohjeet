@@ -21,7 +21,7 @@ Viestin voi lähettää [tuki@tsv.fi](mailto:tuki@tsv.fi)
 
 ## 3. OJS/OMP-järjestelmää koskeva koulutus
 
-Ensimmäisen yhteydenoton jälkeen lehti varaa toimituskunnalleen OJS/OMP-järjestelmää koskevan koulutuksen. Koulutus kestää noin 1-2  tuntia ja sen tavoitteena on antaa yleiskuva järjestelmän ominaisuuksista. Koulutuksen perusteella julkaisija päättää haluaako se ottaa järjestelmän käyttöönsä. Koulutus on johdatus laajan ja monimuotoisen järjestelmän käyttöön. Järjestelmän täydellinen hallinta vaatii lehden omaa aktiivisuutta ja harjoittelua.
+Ensimmäisen yhteydenoton jälkeen lehden toimituskunnan kannattaa osallistua OJS/OMP-järjestelmää koskevaan koulutukseen. Koulutus kestää noin 1-2  tuntia ja sen tavoitteena on antaa yleiskuva järjestelmän ominaisuuksista. Koulutuksen perusteella julkaisija päättää haluaako se ottaa järjestelmän käyttöönsä. Koulutus on johdatus laajan ja monimuotoisen järjestelmän käyttöön. Järjestelmän täydellinen hallinta vaatii lehden omaa aktiivisuutta ja harjoittelua. Lisätietoja koulutuksista löytyy [Tieteellisten seurain valtuuskunnan kotisivuilta](https://tsv.fi/fi/palvelut/avoimen-julkaisemisen-palvelut/koulutukset)
 
 ## 4. Testisivuston perustaminen (vapaaehtoinen)
 
