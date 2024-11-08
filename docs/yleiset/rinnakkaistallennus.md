@@ -24,7 +24,7 @@ Open Policy Finder -palvelun [omat käyttöohjeet löytyvät palvelun kotisivuil
 
 Aluksi kannattaa tutustua [Open Policy Finder hakukriteereihin (englanniksi)](https://openpolicyfinder.jisc.ac.uk/help/records/publisher/inclusion-criteria). Julkaisijalle ja rekisteröitäville julkaisusarjoille on omat kriteerinsä.
 
-**HUOM** Open Policy Finderin hakukriteereitä ollaan parhailllaan uusimassa (Marraskuu 2025):
+**HUOM** Open Policy Finderin hakukriteereitä ollaan parhailllaan uusimassa (Marraskuu 2024):
 > Please also note we are currently not accepting new publishers for listing in open policy finder (unless part of a pre-existing collaboration) while our acceptance criteria and collection management policies are under review. This information will be updated further in January 2025.
 
 **Kriteerit julkaisusarjoille:**
@@ -51,8 +51,7 @@ Jos julkaisusarjan tai julkaisijan tiedot löytyvät jo palvelusta, tietojen mah
 
 #### Julkaisija puuttuu kokonaan palvelusta
 
-**HUOM** Open Policy Finderin tietokantaan ei tällä hetkellä oteta mukaan uusia julkaisijoita (Marraskuu 2025).
-
+**HUOM** Open Policy Finderin tietokantaan ei tällä hetkellä oteta mukaan uusia julkaisijoita (Marraskuu 2024):
 > Please also note we are currently not accepting new publishers for listing in open policy finder (unless part of a pre-existing collaboration) while our acceptance criteria and collection management policies are under review. This information will be updated further in January 2025.
 
 #### Julkaisija on palvelussa, mutta julkaisusarja puuttuu
@@ -113,7 +112,10 @@ Jos julkaisijaa ei löydy lainkaan, annetaan sen tiedot nyt täytettävällä lo
 
 Governing Body URL: Osoite tulee johtaa sivulle, jossa esitellään julkaisusarjaa hallinnoiva taho. Se on taho, joka tekee julkaisusarjaan liittyviä hallinnollisia päätöksiä, eli päättää esimerkiksi siirtymisestä kokonaan avoimeen julkaisemiseen. Tiedeseurojen tapauksessa se voi olla esimerkiksi seuran hallitus.
 
-Publication ethics URL:** **Osoitteen tulee johtaa sivustolle, jossa on kerrottu millaisia eettisiä periaatteita julkaisutoiminnassa noudatetaan. Nämä voivat liittyä esimerkiksi plagiointiin, vertaisarviointiin, toimituskäytäntöihin jne.
+Publication ethics URL: Osoitteen tulee johtaa sivustolle, jossa on kerrottu millaisia eettisiä periaatteita julkaisutoiminnassa noudatetaan. Nämä voivat liittyä esimerkiksi plagiointiin, vertaisarviointiin, toimituskäytäntöihin jne.
+
+**HUOM** Open Policy Finderin hakukriteereitä ollaan parhailllaan uusimassa (Marraskuu 2024) ja uusia julkaisijoita ei voi tällä hetkellä lisätä:
+> Please also note we are currently not accepting new publishers for listing in open policy finder (unless part of a pre-existing collaboration) while our acceptance criteria and collection management policies are under review. This information will be updated further in January 2025.
 
 #### Open Access policy details
 
