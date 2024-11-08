@@ -11,7 +11,7 @@ Ohjeita Tieteellisten seurain valtuuskunnan ylläpitämien Journal.fi- ja Editio
 - Palvelujen yhteiset ohjeet
     - [DOI-tunnisteet](yleiset/doi.md)
     - [Rahoittajatietojen keruu](yleiset/rahoittajat.md)
-    - [Rinnakkaistallennus ja Sherpa Romeo](yleiset/rinnakkaistallennus.md)
+    - [Rinnakkaistallennus ja Open Policy Finder (entinen Sherpa Romeo)](yleiset/rinnakkaistallennus.md)
     - [Sivuston navigointi](yleiset/navigointi.md)
     - [Sivuston ulkoasu](yleiset/ulkoasu.md)
     - [Tekijänoikeus ja Creative Commons -lisenssit](yleiset/tekijanoikeus-ja-lisenssit.md)

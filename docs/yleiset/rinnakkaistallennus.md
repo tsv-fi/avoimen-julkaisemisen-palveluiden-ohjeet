@@ -1,10 +1,12 @@
-# Rinnakkaistallennus ja Sherpa Romeo -palvelu
+# Rinnakkaistallennus ja Open Policy Finder -palvelu
 
 ## Mikä ja miksi?
 
-Sherpa Romeo on palvelu, josta voi tarkistaa julkaisijan suhtautumisen rinnakkaistallentamiseen. Oman käytännön ilmoittaminen säästää siis julkaisuarkistojen työaikaa, koska julkaisijan rinnakkastallennuslinjauksen voi tarkistaa keskitetysti yhdestä paikasta. Palvelusta löytyy myös muita tietoja julkaisusarjoja koskien, kuten esimerkiksi tieto käytössä olevista lisensseistä ja mahdollisesta embargosta.
+**Open Policy Finder** on palvelu, josta voi tarkistaa julkaisijan suhtautumisen rinnakkaistallentamiseen. Oman käytännön ilmoittaminen säästää siis julkaisuarkistojen työaikaa, koska julkaisijan rinnakkastallennuslinjauksen voi tarkistaa keskitetysti yhdestä paikasta. Palvelusta löytyy myös muita tietoja julkaisusarjoja koskien, kuten esimerkiksi tieto käytössä olevista lisensseistä ja mahdollisesta embargosta.
 
-Rinnakkaistallentaminen tehostaa osaltaan lehden artikkeleiden ja koko lehden saamaa näkyvyyttä. Rinnakkaistallennus on myös yksi tapa täyttää [Plan S -konsortion kriteerit avoimuudelle (englanniksi)](https://coalition-s.org/about/). **Suhtautuminen rinnakkaistallennukseen kannattaa ilmoittaa Sherpa Romeo -palvelussa myös siinä tapauksessa, että lehti ei salli mitään rinnakkaistallennusta**. 
+Open Policy Finder -palvelu käytti aiemmin nimeä **Sherpa Romeo**.
+
+Rinnakkaistallentaminen tehostaa osaltaan lehden artikkeleiden ja koko lehden saamaa näkyvyyttä. Rinnakkaistallennus on myös yksi tapa täyttää [Plan S -konsortion kriteerit avoimuudelle (englanniksi)](https://coalition-s.org/about/). **Suhtautuminen rinnakkaistallennukseen kannattaa ilmoittaa Open Policy Finder -palvelussa myös siinä tapauksessa, että lehti ei salli mitään rinnakkaistallennusta**. 
 
 Palveluun rekisteröityminen on ilmaista ja vaatii vain kertaluontoisen työpanoksen. Julkaisijan on myös mahdollista ilmoittaa kerralla kaikki lehdet, joilla sama politiikka. Mahdolliset muutokset tulee kuitenkin päivittää palveluun mahdollisimman pian.
 
@@ -14,40 +16,48 @@ Lisätietoja rinnakkaistallennuksesta löytyy esimerkiksi Jyväskylän yliopisto
 * [https://openscience.jyu.fi/fi/rinnakkaistallentaminen/artikkelin-eri-versiot](https://openscience.jyu.fi/fi/rinnakkaistallentaminen/artikkelin-eri-versiot)
 * [https://openscience.jyu.fi/fi/rinnakkaistallentaminen/rinnakkaistallentamisen-hyodyt](https://openscience.jyu.fi/fi/rinnakkaistallentaminen/rinnakkaistallentamisen-hyodyt)
 
-Sherpa Romeo -palvelun [omat käyttöohjeet löytyvät palvelun kotisivuilta](https://v2.sherpa.ac.uk/romeo/help.html).
+Open Policy Finder -palvelun [omat käyttöohjeet löytyvät palvelun kotisivuilta](https://openpolicyfinder.jisc.ac.uk/help).
 
-
-## Lehden tietojen ilmoittaminen Sherpa Romeo -tietokantaan
+## Lehden tietojen ilmoittaminen Open Policy Finder -tietokantaan
 
 ### Ennen kuin aloitat hakulomakkeen täyttämisen
 
-Aluksi kannattaa tutustua [Sherpa Romeon hakukriteereihin (englanniksi)](https://v2.sherpa.ac.uk/romeo/about.html). Julkaisijalle ja rekisteröitäville julkaisusarjoille on omat kriteerinsä:
+Aluksi kannattaa tutustua [Open Policy Finder hakukriteereihin (englanniksi)](https://openpolicyfinder.jisc.ac.uk/help/records/publisher/inclusion-criteria). Julkaisijalle ja rekisteröitäville julkaisusarjoille on omat kriteerinsä.
 
-Kriteerit julkaisusarjoille:
+**HUOM** Open Policy Finderin hakukriteereitä ollaan parhailllaan uusimassa (Marraskuu 2025):
+> Please also note we are currently not accepting new publishers for listing in open policy finder (unless part of a pre-existing collaboration) while our acceptance criteria and collection management policies are under review. This information will be updated further in January 2025.
+
+**Kriteerit julkaisusarjoille:**
 
 * Julkaisusarjalla on oltava voimassa oleva, kansainväliseen ISSN-portaaliin rekisteröity ISSN-tunnus. Tunnuksen tulee löytyä sarjan verkkosivuilta.
 * Toimituskunnan tiedot tulee löytyä julkaisusarjan verkkosivuilta.
 * Verkkosivuilta tulee myös löytyä tieto julkaisusarjan käyttämästä lisenssistä, lehden noudattamista periaatteista tekijänoikeuksien suhteen sekä periaatteista avoimen saatavuuden suhteen.
 * Avoimen saatavuuden linjaukseen tulee sisältyä mahdollisuus julkaista jokin käsikirjoituksen versioista (submitted, accepted, published) avoimesti.
 
-Kriteerit julkaisijalle:
+**Kriteerit julkaisijalle:**
 
 * Julkaisijan yhteystietojen on löydyttävä verkkosivuilta.
 * Verkkosivuilta tulee löytyä myös julkaisutoiminnan eettiset periaatteet.
 
 Vaadittavat tiedot voivat olla julkaisusarjan verkkosivuilla millä kielellä tahansa. Lomaketta ei voi tallentaa keskeneräisenä, eli tiedot kannattaa kerätä valmiiksi.
 
-**Aloita aina tarkistamalla** löytyykö julkaisusarjan tai julkaisijan tiedot jo tietokannasta tekemällä haku julkaisusarjan ja julkaisijan nimellä sekä ISSN-tunnuksella.[ Linkki Sherpa Romeon hakusivulle (englanniksi)](https://v2.sherpa.ac.uk/romeo/search.html).
+**Aloita aina tarkistamalla** löytyykö julkaisusarjan tai julkaisijan tiedot jo tietokannasta tekemällä haku julkaisusarjan ja julkaisijan nimellä sekä ISSN-tunnuksella.[ Linkki Open Policy Finderin hakusivulle (englanniksi)](https://openpolicyfinder.jisc.ac.uk/search).
 
-Jos julkaisusarjan tai julkaisijan tiedot löytyvät jo palvelusta, tietojen mahdollinen päivittäminen tehdään **Suggest an update for this record** -lomakkeella, joka löytyy tallennetun tietueen lopusta. Esimerkiksi [Finnish Historical Society (englanniksi)](https://v2.sherpa.ac.uk/id/publisher/1820).
+#### Julkaisusarja tai julkaisija on jo palvelussa
 
+Jos julkaisusarjan tai julkaisijan tiedot löytyvät jo palvelusta, tietojen mahdollinen päivittäminen tehdään **Report an error** -painikkeella. Esimerkiksi [Finnish Historical Society (englanniksi)](https://openpolicyfinder.jisc.ac.uk/id/publisher/1820).
 
 ![Julkasijan tietojen muokkaus](../_media/rinnakkaistallennus-1.png "Julkasijan tietojen muokkaus")
 
-Sherpa Romeolla on käytössä kaksi eri lomaketta uusien julkaisusarjojen lisäämiseen palveluun. Lomake valitaan sen perusteella, löytyvätkö julkaisijan tiedot palvelusta jo entuudestaan, vai ei.
+#### Julkaisija puuttuu kokonaan palvelusta
 
-* Lomake A: [Käytä tätä hakulomaketta, jos sarjan julkaisija ei löydy entuudestaan Sherpa Romeosta (englanniksi).](https://www.jisc.ac.uk/forms/submit-a-new-record-for-a-publisher-not-already-listed-in-sherpa-romeo) Julkaisijan tiedot tallennetaan palveluun ensimmäisen sarjan lisäämisen yhteydessä.
-* Lomake B: [Käytä tätä hakulomaketta, jos sarjan julkaisijan tiedot löytyvät jo Sherpa Romeosta (englanniksi).](https://www.jisc.ac.uk/forms/submit-a-new-journal-request-for-a-publisher-already-listed-in-sherpa-romeo)
+**HUOM** Open Policy Finderin tietokantaan ei tällä hetkellä oteta mukaan uusia julkaisijoita (Marraskuu 2025).
+
+> Please also note we are currently not accepting new publishers for listing in open policy finder (unless part of a pre-existing collaboration) while our acceptance criteria and collection management policies are under review. This information will be updated further in January 2025.
+
+#### Julkaisija on palvelussa, mutta julkaisusarja puuttuu
+
+Mikäli julkaisijan tiedot ovat jo palvelun tietokannassa, [voi sarjan tiedot lisätä tällä lomakkeella (englanniksi).](https://www.jisc.ac.uk/forms/submit-a-new-journal-request-for-a-publisher-already-listed-in-sherpa-romeo)
 
 Lomake täytetään jokaiselle julkaisusarjalle erikseen. Mikäli kuitenkin useampi saman julkaisijan sarja noudattaa samoja julkaisukäytäntöjä, voi tietojen ilmoittamista nopeuttaa lomakkeessa neuvotulla tavalla (Excel-liite). Jos julkaisijan tietoja ei ole rekisteröity palveluun aiemmin, ne lisätään ensimmäisen sarjan lisäämisen yhteydessä.
 
@@ -95,9 +105,9 @@ Seuraavaksi täytetään julkaisusarjan tiedot. ISSN-tunnusten osalta riittää 
 
 #### Publisher details
 
-Julkaisusarjan tietojen jälkeen annetaan julkaisijan tiedot. Näitä tietoja ei tarvitse täyttää nimeä lukuunottamatta uudelleen mikäli julkaisija on rekisteröitynyt palveluun jo aiemmin. Voit tarkistaa asian [hakemalla Sherpa Romeosta (englanniksi)](https://v2.sherpa.ac.uk/romeo/search.html) julkaisijan nimellä. 
+Julkaisusarjan tietojen jälkeen annetaan julkaisijan tiedot. Näitä tietoja ei tarvitse täyttää nimeä lukuunottamatta uudelleen mikäli julkaisija on rekisteröitynyt palveluun jo aiemmin. Voit tarkistaa asian [hakemalla Open Policy Finderista (englanniksi)](https://openpolicyfinder.jisc.ac.uk/search) julkaisijan nimellä. 
 
-Jos löytyneessä julkaisijan tiedoissa on korjattavaa, voit ehdottaa muutosta erikseen julkaisijan tietueesta löytyvästä Suggest an update for this record -napista. Katso esimerkiksi [https://v2.sherpa.ac.uk/id/publisher/1820](https://v2.sherpa.ac.uk/id/publisher/1820).
+Jos löytyneessä julkaisijan tiedoissa on korjattavaa, voit ehdottaa muutosta erikseen julkaisijan tietueesta löytyvästä **Report an error** -napista. Katso esimerkiksi [https://openpolicyfinder.jisc.ac.uk/id/publisher/1820](https://openpolicyfinder.jisc.ac.uk/id/publisher/1820).
 
 Jos julkaisijaa ei löydy lainkaan, annetaan sen tiedot nyt täytettävällä lomakkeella.
 

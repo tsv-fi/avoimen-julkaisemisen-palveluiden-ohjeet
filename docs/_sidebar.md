@@ -10,7 +10,7 @@
     - [Aineistojen tuonti](yleiset/tuonnit.md)
     - [DOI-tunnisteet](yleiset/doi.md)
     - [Rahoittajatiedot](yleiset/rahoittajat.md)    
-    - [Rinnakkaistallennus ja Sherpa Romeo](yleiset/rinnakkaistallennus.md)
+    - [Rinnakkaistallennus ja Open Policy Finder](yleiset/rinnakkaistallennus.md)
     - [Sivuston navigointi](yleiset/navigointi.md)
     - [Sivuston ulkoasu](yleiset/ulkoasu.md)
     - [Tekijänoikeus ja CC-lisenssit](yleiset/tekijanoikeus-ja-lisenssit.md)
