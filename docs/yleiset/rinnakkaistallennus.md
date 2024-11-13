@@ -6,9 +6,9 @@
 
 Open Policy Finder -palvelu käytti aiemmin nimeä **Sherpa Romeo**.
 
-Rinnakkaistallentaminen tehostaa osaltaan lehden artikkeleiden ja koko lehden saamaa näkyvyyttä. Rinnakkaistallennus on myös yksi tapa täyttää [Plan S -konsortion kriteerit avoimuudelle (englanniksi)](https://coalition-s.org/about/). **Suhtautuminen rinnakkaistallennukseen kannattaa ilmoittaa Open Policy Finder -palvelussa myös siinä tapauksessa, että lehti ei salli mitään rinnakkaistallennusta**. 
+Rinnakkaistallentaminen tehostaa osaltaan artikkeleiden ja koko julkaisusarjan saamaa näkyvyyttä. Rinnakkaistallennus on myös yksi tapa täyttää [Plan S -konsortion kriteerit avoimuudelle (englanniksi)](https://coalition-s.org/about/). **Suhtautuminen rinnakkaistallennukseen kannattaa ilmoittaa Open Policy Finder -palvelussa myös siinä tapauksessa, että julkaisija ei salli mitään rinnakkaistallennusta**. 
 
-Palveluun rekisteröityminen on ilmaista ja vaatii vain kertaluontoisen työpanoksen. Julkaisijan on myös mahdollista ilmoittaa kerralla kaikki lehdet, joilla sama politiikka. Mahdolliset muutokset tulee kuitenkin päivittää palveluun mahdollisimman pian.
+Palveluun rekisteröityminen on ilmaista ja vaatii vain kertaluontoisen työpanoksen. Julkaisijan on myös mahdollista ilmoittaa kerralla kaikki julkaisusarjat, joilla sama politiikka. Mahdolliset muutokset tulee kuitenkin päivittää palveluun mahdollisimman pian.
 
 Lisätietoja rinnakkaistallennuksesta löytyy esimerkiksi Jyväskylän yliopiston kotisivuilta:
 
@@ -18,7 +18,7 @@ Lisätietoja rinnakkaistallennuksesta löytyy esimerkiksi Jyväskylän yliopisto
 
 Open Policy Finder -palvelun [omat käyttöohjeet löytyvät palvelun kotisivuilta](https://openpolicyfinder.jisc.ac.uk/help).
 
-## Lehden tietojen ilmoittaminen Open Policy Finder -tietokantaan
+## Julkaisusarjan tietojen ilmoittaminen Open Policy Finder -tietokantaan
 
 ### Ennen kuin aloitat hakulomakkeen täyttämisen
 
@@ -28,7 +28,7 @@ Aluksi kannattaa tutustua [Open Policy Finder hakukriteereihin (englanniksi)](ht
 
 * Julkaisusarjalla on oltava voimassa oleva, kansainväliseen ISSN-portaaliin rekisteröity ISSN-tunnus. Tunnuksen tulee löytyä sarjan verkkosivuilta.
 * Toimituskunnan tiedot tulee löytyä julkaisusarjan verkkosivuilta.
-* Verkkosivuilta tulee myös löytyä tieto julkaisusarjan käyttämästä lisenssistä, lehden noudattamista periaatteista tekijänoikeuksien suhteen sekä periaatteista avoimen saatavuuden suhteen.
+* Verkkosivuilta tulee myös löytyä tieto julkaisusarjan käyttämästä lisenssistä, julkaisusarjan noudattamista periaatteista tekijänoikeuksien suhteen sekä periaatteista avoimen saatavuuden suhteen.
 * Avoimen saatavuuden linjaukseen tulee sisältyä mahdollisuus julkaista jokin käsikirjoituksen versioista (submitted, accepted, published) avoimesti.
 
 **Kriteerit julkaisijalle:**
@@ -73,7 +73,7 @@ Tarkista Journal.fi- tai Edition.fi-palvelussa olevasta sivustosta ainakin seura
     * Anna kuvaus suhtautumisesta rinnakkaistallennukseen kohtaan **Asetukset => Julkaisu => Tunnuslaatikko => Tietoa julkaisusta**
     * Muista huomioida mitä käsikirjoituksen versiota (submitted, accepted, published)  linjaukset koskevat
 * **Lisenssit ja tekijänoikeus**
-    * Määritä lehden lisenssejä ja tekijänoikeutta koskevat asetukset kohtaan **Asetukset => Jakelu => Lisenssi** ja **Asetukset => Jakelu => Tekijänoikeuden haltija**
+    * Määritä julkaisusarjan lisenssejä ja tekijänoikeutta koskevat asetukset kohtaan **Asetukset => Jakelu => Lisenssi** ja **Asetukset => Jakelu => Tekijänoikeuden haltija**
     * Anna kuvaus käytössä olevista lisensseistä ja tekijänoikeudesta kohtaan **Asetukset > Työnkulku > Käsikirjoituksen vastaanotto > Kirjoittajan ohjeet > Tekijänoikeushuomautus**
 
 
