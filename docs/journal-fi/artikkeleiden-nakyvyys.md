@@ -35,9 +35,6 @@ Valitettavasti Google Scholar ei ole erityisen läpinäkyvä siitä, miten se in
 
 Googlen indeksointia, ja muidenkin vastaavien palveluiden indeksointia, helpottaa kahden lisäosan kytkeminen päälle kohdasta **Asetukset => Verkkosivusto => Lisäosat. Inställningar => Webbplats => Plugins. Settings > Website > Plugins.** Nämä ovat Dublin Core Indexing Plugin ja Google Scholar Indexing Plugin.
 
-![alt_text](images/image1.png "image_tooltip")
-![alt_text](images/image2.png "image_tooltip")
-
 Lisäosat eivät tee mitään näkyvää muutosta artikkeleiden sivuille, vaan ne lisäävät artikkelin sivulle hakukoneille näkyviä metatietoja.
 
 Google indeksoi sisällöt jollakin aikavälillä, jota on vaikea arvioida ennakkoon. Halutessaan oman lehden tilanteesta voi olla yhteydessä Googleen.
@@ -47,9 +44,6 @@ Katso myös [Public Knowledge Projectin Google Scholar -opas](https://docs.pkp.s
 ## Sosiaalinen media
 
 Artikkeleiden yhteyteen saa sosiaalisen median jakonapit **addThis**-lisäosan avulla. Kytke lisäosa päälle kohdasta **Asetukset => Verkkosivusto => Lisäosat. Inställningar => Webbplats => Plugins. Settings > Website > Plugins.**
-
-![alt_text](images/image3.png "image_tooltip")
-
 
 Kohdasta “Asetukset” voi muuttaa jakonappien ulkoanäköä. Napit näkyvät artikkelin abstraktin alapuolella. 
 
