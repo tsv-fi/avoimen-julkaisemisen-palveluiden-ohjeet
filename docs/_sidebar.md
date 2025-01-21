@@ -14,6 +14,7 @@
     - [Sivuston navigointi](yleiset/navigointi.md)
     - [Sivuston ulkoasu](yleiset/ulkoasu.md)
     - [Tekijänoikeus ja CC-lisenssit](yleiset/tekijanoikeus-ja-lisenssit.md)
+    - [Vertaisarviointitunnus](yleiset/vertaisarviointitunnus.md)
 - Journal.fi
     - [Artikkeleiden näkyvyys](journal-fi/artikkeleiden-nakyvyys.md)
     - [DOI ja Journal.fi](journal-fi/doi.md)
@@ -23,7 +24,6 @@
     - [ORCID ja Journal.fi](journal-fi/orcid.md)
     - [Pikajulkaisu](journal-fi/pikajulkaisu.md)
     - [Tilastot](journal-fi/tilastot.md)
-    - [Vertaisarviointitunnus](journal-fi/vertaisarviointitunnus.md)
 - Edition.fi
     - [Kirjojen julkaisu](edition-fi/julkaisu.md)
     - [DOI ja Edition.fi](edition-fi/doi.md)

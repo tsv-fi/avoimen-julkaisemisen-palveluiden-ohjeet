@@ -16,6 +16,7 @@ Ohjeita Tieteellisten seurain valtuuskunnan ylläpitämien Journal.fi- ja Editio
     - [Sivuston ulkoasu](yleiset/ulkoasu.md)
     - [Tekijänoikeus ja Creative Commons -lisenssit](yleiset/tekijanoikeus-ja-lisenssit.md)
     - [Vanhojen aineistojen tuonti](yleiset/tuonnit.md)
+    - [Vertaisarviointitunnus](yleiset/vertaisarviointitunnus.md)
 - Journal.fi
     - [Learning OJS 3.2 (PKP Docs)](https://docs.pkp.sfu.ca/learning-ojs/3.2/)
     - [Artikkeleiden ennakkojulkaisu](journal-fi/ennakkojulkaisu.md)
@@ -25,7 +26,6 @@ Ohjeita Tieteellisten seurain valtuuskunnan ylläpitämien Journal.fi- ja Editio
     - [Journal.fi-palvelun käyttö pelkässä julkaisukäytössä (pikajulkaisulisäosa)](journal-fi/pikajulkaisu.md)
     - [ORCID-tunnisteiden käyttö Journal.fi-palvelussa](journal-fi/orcid.md)
     - [Tilastot ja Journal.fi](journal-fi/tilastot.md)
-    - [Vertaisarviointitunnus ja Journal.fi](journal-fi/vertaisarviointitunnus.md)
     - [Viiveellinen (embargo-) julkaiseminen ja maksulisäosat Journal.fi-palvelussa](journal-fi/embargo.md)
 - Edition.fi
     - [Learning OMP 3.2 (PKP Docs)](https://docs.pkp.sfu.ca/learning-omp/3.2/)
