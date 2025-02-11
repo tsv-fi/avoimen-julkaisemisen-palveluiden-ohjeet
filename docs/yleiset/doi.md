@@ -20,9 +20,9 @@ TSV:n avoimen julkaisemisen palveluiden käyttäjät voivat hakea mukaan TSV:n j
 
 Uusia julkaisijoita otetaan mukaan sopimukseen kaksi kertaa vuodessa. Liittyminen tapahtuu seuraavasti:
 
-1. Ota yhteyttä [tuki@tsv.fi](mailto:tuki@tsv.fi) ja ilmoita olevasi kiinnostunut liittymään mukaan DOI-sopimukseen. Kerro julkaisijan nimi ja mitä TSV:n julkaisupalveluita käytätte.
-2. Ennen koulutusta lähetämme DOI-tunnusten käyttöä koskevan sopimuksen allekirjoitettavaksi.
-3. Julkaisijan tulee osallistua ennen tunnisteiden käyttöä DOI-koulutukseen, jonka TSV järjestää uusille sopimukseen liittyjille sekä allekirjoittaa tunnisteiden käyttöä koskeva sopimus, jossa määritellään lehden ja TSV:n keskinäiset vastuut. Koulutukset järjestetään alkuvuonna ja syksyllä. Kouluttaja on yhteydessä uusiin hakijoihin sopivien ajankohtien valitsemiseksi.
+1. Ota yhteyttä [tuki@tsv.fi](mailto:tuki@tsv.fi) ja ilmoita olevasi kiinnostunut liittymään mukaan DOI-sopimukseen. Kerro julkaisijan nimi ja mitä TSV:n julkaisupalveluita käytätte. Tarkista [seuraavan koulutuksen ajankohta](https://tsv.fi/fi/palvelut/avoimen-julkaisemisen-palvelut/koulutukset).
+2. Lähetämme DOI-tunnusten käyttöä koskevan sopimuksen allekirjoitettavaksi.
+3. Julkaisijan tulee osallistua ennen tunnisteiden käyttöä DOI-koulutukseen, jonka TSV järjestää uusille sopimukseen liittyjille sekä allekirjoittaa tunnisteiden käyttöä koskeva sopimus, jossa määritellään lehden ja TSV:n keskinäiset vastuut. Journali.fi-palvelua käyttäville järjestetään. [Ilmoittaudu haluttuun koulutukseen](https://tsv.fi/fi/palvelut/avoimen-julkaisemisen-palvelut/koulutukset) lähettämällä sähköpostia kaksi viikkoa ennen koulutusta osoitteeseen [tuki@tsv.fi](mailto:tuki@tsv.fi).
 4. Julkaisija saa koulutuksen yhteydessä itselleen oman prefiksin sekä Crossrefin käyttäjätunnukset. Koulutuksen jälkeen julkaisija voi ohjeiden mukaisesti aloittaa tunnisteiden käytön.
 
 Palvelu on tällä hetkellä ilmainen jäsenseuroille. Tämä koskee DOI-tunnuksia, jotka annetaan uusille julkaistaville sisällöille. Jos hakee DOI-tunnuksia vanhalle sisällölle, julkaisijaa laskutetaan Crossrefin hinnaston mukaisesti. Muille kuin jäsenseuroille palvelun käytöstä on pieni vuosimaksu, jonka yksityiskohdat löytyvät [avoimen julkaisemisen palveluiden hinnastosta](https://tsv.fi/fi/palvelut/avoimen-julkaisemisen-palvelut/hinnasto).
