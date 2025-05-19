@@ -48,11 +48,11 @@ Jos julkaisusarjan tai julkaisijan tiedot löytyvät jo palvelusta, tietojen mah
 
 #### Julkaisija puuttuu kokonaan palvelusta
 
-Mikäli sekä julkaisijan että lisättävän sarjan tiedot puuttuvat palvelusta, [julkaisijan tiedot tallennetaan palveluun ensimmäisen sarjan lisäämisen yhteydessä käyttämällä tätä lomaketta (englanniksi).](https://www.jisc.ac.uk/forms/submit-a-new-record-for-a-publisher-not-already-listed-in-sherpa-romeo). 
+Mikäli sekä julkaisijan että lisättävän sarjan tiedot puuttuvat palvelusta, [julkaisijan tiedot tallennetaan palveluun ensimmäisen sarjan lisäämisen yhteydessä käyttämällä tätä lomaketta (englanniksi).](https://www.jisc.ac.uk/forms/submit-a-new-record-for-a-publisher-not-already-listed-in-open-policy-finder). 
 
 #### Julkaisija on palvelussa, mutta julkaisusarja puuttuu
 
-Mikäli julkaisijan tiedot ovat jo palvelun tietokannassa, [voi sarjan tiedot lisätä tällä lomakkeella (englanniksi).](https://www.jisc.ac.uk/forms/submit-a-new-journal-request-for-a-publisher-already-listed-in-sherpa-romeo)
+Mikäli julkaisijan tiedot ovat jo palvelun tietokannassa, [voi sarjan tiedot lisätä tällä lomakkeella (englanniksi).](https://www.jisc.ac.uk/forms/submit-a-new-record-for-a-publisher-already-listed-in-open-policy-finder)
 
 Lomake täytetään jokaiselle julkaisusarjalle erikseen. Mikäli kuitenkin useampi saman julkaisijan sarja noudattaa samoja julkaisukäytäntöjä, voi tietojen ilmoittamista nopeuttaa lomakkeessa neuvotulla tavalla (Excel-liite). Jos julkaisijan tietoja ei ole rekisteröity palveluun aiemmin, ne lisätään ensimmäisen sarjan lisäämisen yhteydessä.
 
