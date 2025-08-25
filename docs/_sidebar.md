@@ -21,6 +21,7 @@
     - [DOAJ](journal-fi/doaj.md)
     - [Embargo](journal-fi/embargo.md)
     - [Ennakkojulkaisu](journal-fi/ennakkojulkaisu.md)
+    - [HTML-artikkelit](journal-fi/css.md)
     - [ORCID ja Journal.fi](journal-fi/orcid.md)
     - [Pikajulkaisu](journal-fi/pikajulkaisu.md)
     - [Tilastot](journal-fi/tilastot.md)

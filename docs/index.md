@@ -23,6 +23,7 @@ Ohjeita Tieteellisten seurain valtuuskunnan ylläpitämien Journal.fi- ja Editio
     - [Artikkeleiden näkyvyys ja Journal.fi](journal-fi/artikkeleiden-nakyvyys.md)
     - [Directory of Open Access Journals (DOAJ) -tietokanta ja Journal.fi](journal-fi/doaj.md)
     - [DOI-tunnisteiden käyttö Journal.fi-palvelussa](journal-fi/doi.md)
+    - [HTML-muotoisten artikkelien asettelu Journal.fi-julkaisuissa](journal-fi/css.md)
     - [Journal.fi-palvelun käyttö pelkässä julkaisukäytössä (pikajulkaisulisäosa)](journal-fi/pikajulkaisu.md)
     - [ORCID-tunnisteiden käyttö Journal.fi-palvelussa](journal-fi/orcid.md)
     - [Tilastot ja Journal.fi](journal-fi/tilastot.md)
