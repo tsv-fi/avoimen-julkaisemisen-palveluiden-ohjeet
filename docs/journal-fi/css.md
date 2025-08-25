@@ -20,7 +20,7 @@ HTML-lisäosa ottaa valmiin julkaisun tiedoston ja lataa sen verkkoselaimessa. V
 
 Tyylitiedosto täytyy olla valmiiksi kirjoitettu omaan CSS-tiedostoonsa ja se ladataan järjestelmään sellaisenaan.
 
-[Voit ladata tämän perusasettelun sisältävän CSS-tiedoston](_assets/StyleSheet.css) ja muokata sitä vastaamaan paremmin omia tarpeitasi tai ladata sen sellaisenaan järjestelmään.
+[Voit ladata tämän perusasettelun sisältävän CSS-tiedoston](https://github.com/tsv-fi/avoimen-julkaisemisen-palveluiden-ohjeet/blob/main/docs/_assets/StyleSheet.css) ja muokata sitä vastaamaan paremmin omia tarpeitasi tai ladata sen sellaisenaan järjestelmään.
 
 # 3. Julkaisujen oikea muotoilu
 
@@ -28,4 +28,4 @@ Lisäosan ja tyylitiedoston lisäksi tarvitaan vielä julkaistavat tekstit oikea
 
 Käytännössä kyseessä on hyvin yksinkertainen HTML-tiedosto, joka ladataan sellaisenaan Journal.fi-järjestelmään. Järjestelmä tekee siihen jotain muutoksia, kun se ladataan, joten lopputulos ei ihan vastaa alkuperäistä tiedostoa.
 
-[Voit ladata valmiin esimerkkitiedoston](_assets/malli.html) ja katsoa, että julkaistavissa teksteissä on tarvittavat osiot. Käytännössä lopulliset julkaistavat tiedostot luodaan taitto-ohjelmassa samaan tapaan kuin julkaistavat PDF-tiedostot.
+[Voit ladata valmiin esimerkkitiedoston](https://github.com/tsv-fi/avoimen-julkaisemisen-palveluiden-ohjeet/blob/main/docs/_assets/malli.html) ja katsoa, että julkaistavissa teksteissä on tarvittavat osiot. Käytännössä lopulliset julkaistavat tiedostot luodaan taitto-ohjelmassa samaan tapaan kuin julkaistavat PDF-tiedostot.
