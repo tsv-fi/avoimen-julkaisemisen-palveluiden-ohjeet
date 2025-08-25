@@ -43,13 +43,11 @@ Katso myös [Public Knowledge Projectin Google Scholar -opas](https://docs.pkp.s
 
 ## Sosiaalinen media
 
-Artikkeleiden yhteyteen saa sosiaalisen median jakonapit **addThis**-lisäosan avulla. Kytke lisäosa päälle kohdasta **Asetukset => Verkkosivusto => Lisäosat. Inställningar => Webbplats => Plugins. Settings > Website > Plugins.**
-
-Kohdasta “Asetukset” voi muuttaa jakonappien ulkoanäköä. Napit näkyvät artikkelin abstraktin alapuolella. 
+Artikkeleiden yhteyteen saa sosiaalisen median jakonapit **Shariff**-lisäosan avulla. Kytke lisäosa päälle kohdasta **Asetukset => Verkkosivusto => Lisäosat. Inställningar => Webbplats => Plugins. Settings > Website > Plugins.**
 
 Jos artikkeleita jakaa esimerkiksi Facebookissa, kannattaa ottaa käyttöön myös **OpenGraph**-lisäosa **Asetukset => Verkkosivusto => Lisäosat. Inställningar => Webbplats => Plugins. Settings > Website > Plugins.**
 
-Lisäosa liittää artikkelin abstraksivulle sekä numeron sisällysluettelon sivulle koneluettavat merkinnät artikkelin nimestä, abstraktista ja mahdollisesta kansikuvasta, jota jaon yhteydessä ehdotetaan käytettäväksi.
+Lisäosa liittää artikkelin abstraktisivulle sekä numeron sisällysluettelon sivulle koneluettavat merkinnät artikkelin nimestä, abstraktista ja mahdollisesta kansikuvasta, jota jaon yhteydessä ehdotetaan käytettäväksi.
 
 ## Pubmed, Medline, Scopus ja Web of Science
 
