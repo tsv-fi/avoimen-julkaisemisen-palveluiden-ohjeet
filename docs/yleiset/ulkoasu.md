@@ -14,6 +14,8 @@ Julkaisija voi myös teettää kokonaan oman ulkoasuteeman. Tällöin versiopäi
 
 ## TSV:n perusteeman muokkaus
 
+*HUOM!* TSV:n perusteema uudistuu lokakuussa 2025 ja alla olevat tekniset yksityiskohdat eivät enää päde. Päivitämme ohjeen uuden teeman käyttöönoton jälkeen. - 2025-09-25.
+
 Julkaisija voi pyytää oman version TSV:n perusteemasta lähettämällä sähköpostia osoitteeseen [tuki@tsv.fi](mailto:tuki@tsv.fi). 
 
 Mikäli julkaisija haluaa perusteeman käyttöön, sille tehdään oma ns. lapsiteema. Lapsiteema perii suurimman osan ulkoasuun liittyvistä seikoista ns. emoteemalta, eli TSV:n perusteemalta. Kaikki julkaisijaa koskevat muutokset tehdään lapsiteemaan, eli sinne lisätään tavallaan vain julkaisijaa koskevat poikkeukset. Tällä tavalla perusteemaa käyttävien julkaisijoiden ulkoasut saadaan pysymään hyvin ajantasalla, koska suurin osa teknisistä muutoksista  tehdään samaan perusteemaan, josta muutokset vaikuttavat kaikkiin lapsiteemoihin. 
