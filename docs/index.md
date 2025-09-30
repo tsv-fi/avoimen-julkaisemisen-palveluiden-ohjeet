@@ -29,7 +29,7 @@ Ohjeita Tieteellisten seurain valtuuskunnan ylläpitämien Journal.fi- ja Editio
     - [Tilastot ja Journal.fi](journal-fi/tilastot.md)
     - [Viiveellinen (embargo-) julkaiseminen ja maksulisäosat Journal.fi-palvelussa](journal-fi/embargo.md)
 - Edition.fi
-    - [Learning OMP 3.2 (PKP Docs)](https://docs.pkp.sfu.ca/learning-omp/3.2/)
+    - [Learning OMP 3.4 (PKP Docs)](https://docs.pkp.sfu.ca/learning-omp/en/)
     - [Kirjojen julkaisu ja hallinta Edition.fi-palvelussa](edition-fi/julkaisu.md)
     - [DOI-tunnisteiden käyttö Edition.fi-palvelussa](edition-fi/doi.md)
 

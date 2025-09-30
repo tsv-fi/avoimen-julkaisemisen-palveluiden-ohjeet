@@ -12,9 +12,9 @@ Ennen kirjojen lisäämistä tulee tarkistaa, että julkaisemiseen vaadittavat a
 
 Tarkista kohdasta **Asetukset > Julkaisija** / **Settings > Press / Inställningar > Press**, että julkaisijan nimi on täytetty molempiin asetuksissa näkyviin kohtiin. Myös muut sivun asetukset on hyvä täyttää.
 
-Tarkista kohdasta **Asetukset > Yhteystiedot** / **Settings > Contact / Inställningar > Kontakt**, että pääasiallinen yhteyshenkilö sekä teknisen tuen yhteyshenkilö on täytetty. Anna teknisen tuen yhteyshenkilöksi jokin julkaisijan oma osoite.
+Tarkista kohdasta **Asetukset > Julkaisija**  > Yhteystiedot** / **Settings > Press > Contact / Inställningar > Press > Kontakt**, että pääasiallinen yhteyshenkilö sekä teknisen tuen yhteyshenkilö on täytetty. Anna teknisen tuen yhteyshenkilöksi jokin julkaisijan oma osoite.
 
-Lisää kohtaan **Asetukset > Sarjat** / **Settings > Series / Inställningar > Serier** kaikki ne julkaisusarjat, joihin olet lisäämässä kirjoja. Anna sarjoista aina ISSN-tunnus.
+Lisää kohtaan **Asetukset > Julkaisija > Sarjat** / **Settings > Press > Series / Inställningar > Press > Serier** kaikki ne julkaisusarjat, joihin olet lisäämässä kirjoja. Anna sarjoista aina ISSN-tunnus.
 
 Tarkista kohdasta **Asetukset > Jakelu > Lisenssi** / **Settings > Distribution > License / Inställningar > Distribution > Licens**, että tekijänoikeutta ja lisenssiä koskevat asetukset ovat oikein. Nämä ovat asetukset, joita järjestelmä ehdottaa oletuksena lisättäville kirjoille, mutta lisenssitietoja voidaan muokata aina kirjakohtaisesti julkaisemisen yhteydessä.
 
@@ -26,7 +26,7 @@ Kohdasta **Asetukset > Verkkosivusto > Asetukset** > **Kielet / Settings > Websi
 
 ![Kieliasetukset](../_media/edition-julkaisu1.png "Kieliasetukset")
 
-**HUOM! Näiden asetusten lisäksi kannattaa tutustua myös järjestelmän muihin asetuksiin:** [https://docs.pkp.sfu.ca/learning-omp/3.2/press-setup](https://docs.pkp.sfu.ca/learning-omp/3.2/press-setup)
+**HUOM! Näiden asetusten lisäksi kannattaa tutustua myös järjestelmän muihin asetuksiin:** [https://docs.pkp.sfu.ca/learning-omp/en/press-setup](https://docs.pkp.sfu.ca/learning-omp/en/press-setup)
 
 
 ## Pikajulkaisulisäosan käyttö
@@ -128,7 +128,7 @@ Paina lopuksi **Tallenna/Save/Spara**. Kun kirja on lisätty, voit siirtyä lis�
 
 DOI-tunnusten käyttö Edition.fi-palvelussa vaatii tunnusten käyttöä koskevan sopimuksen. Jos tunnukset ovat käytössä, uuden kirjan DOI-tunnukset voi rekisteröidä heti sen julkaisun jälkeen.
 
-Rekisteröinti tapahtuu kohdasta **Työkalut > Tuonti/Vienti > Crossref XML -vientilisäosa / Tools > Import/Export > Crossref XML Plugin / Verktyg > Importera/Exportera > crossref.** Avautuvalta sivulta näkyy ensimmäisellä välilehdellä kirjat, joiden tunnuksia ei ole rekisteröity ja toisella välilehdellä jo rekisteröidyt kirjat. Rekisteröinti tapahtuu klikkaamalla kirjan nimen perässä oleva rekisteröintilinkkiä.
+Rekisteröinti tapahtuu kohdasta **DOI-tunnukset / DOIs / DOIs** Avautuvalla sivulla näkyy listaus kaikista kirjoista sekä niiden DOI-tunnusten tila. Julkaistujen kirjojen DOI-tunnukset voi rekisteröidä painamalla **Talleta kaikki / Deposit All / Deponera Alla**. Ole kärsivällinen kun järjestelmä tekee tallennusta, siinä voi kulua pidempi aika. Järjestelmä ilmoittaa kun tallennus on valmis.
 
 ### Kirjojen muokkaaminen
 
@@ -144,7 +144,7 @@ Välilehdeltä **Julkaistu versio / Publication** **/ Publikation** löytyy kaik
 
 ![Julkaistun version tiedot](../_media/edition-julkaisu13.png "Julkaistun version tiedot")
 
-OMP ja OJS järjestelmien uusin versio tukee versiointia. Eli samasta kirjasta voi olla julkaistuna useita eri versioita. Näitä _uusia versioita tulee kuitenkin luoda harkitusti_ ja vanhan digitoidun teoksen kohdalla tämän ei pitäisi olla koskaan tarpeellista.
+OMP ja OJS järjestelmä tukee versiointia. Eli samasta kirjasta voi olla julkaistuna useita eri versioita. Näitä _uusia versioita tulee kuitenkin luoda harkitusti_ ja vanhan digitoidun teoksen kohdalla tämän ei pitäisi olla koskaan tarpeellista.
 
 _Mikäli jo julkaistun kirjan kuvailutietoihin halutaan tehdä jokin pieni korjaus, ei tätä varten pidä luoda uutta versiota_. Näissä tapauksissa voidaan valita yllä olevasta näkymästä **Peru julkaisu**, jonka jälkeen kuvailutietoja pääsee muokkaamaan. Muokkaamisen jälkeen kirjan voi julkaista uudelleen.
 
