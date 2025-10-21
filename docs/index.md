@@ -10,12 +10,13 @@ Ohjeita Tieteellisten seurain valtuuskunnan ylläpitämien Journal.fi- ja Editio
     - [Usein kysytyt kysymykset](https://tuki.tsv.fi/kb/faq.php?cid=1)
 - Palvelujen yhteiset ohjeet
     - [DOI-tunnisteet](yleiset/doi.md)
+    - [Päivämäärän ja ajan muotoilu](yleiset/aikaleimat.md)
     - [Rahoittajatietojen keruu](yleiset/rahoittajat.md)
     - [Rinnakkaistallennus ja Open Policy Finder (entinen Sherpa Romeo)](yleiset/rinnakkaistallennus.md)
     - [Sivuston navigointi](yleiset/navigointi.md)
     - [Sivuston ulkoasu](yleiset/ulkoasu.md)
     - [Tekijänoikeus ja Creative Commons -lisenssit](yleiset/tekijanoikeus-ja-lisenssit.md)
-    - [Vanhojen aineistojen tuonti](yleiset/tuonnit.md)
+    - [Aineistojen tuonti](yleiset/tuonnit.md)
     - [Vertaisarviointitunnus](yleiset/vertaisarviointitunnus.md)
 - Journal.fi
     - [Learning OJS 3.2 (PKP Docs)](https://docs.pkp.sfu.ca/learning-ojs/3.2/)

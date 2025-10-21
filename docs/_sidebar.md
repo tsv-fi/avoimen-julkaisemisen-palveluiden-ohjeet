@@ -9,6 +9,7 @@
 - Palvelujen yhteiset ohjeet
     - [Aineistojen tuonti](yleiset/tuonnit.md)
     - [DOI-tunnisteet](yleiset/doi.md)
+    - [Päivämäärän ja ajan muotoilu](yleiset/aikaleimat.md)
     - [Rahoittajatiedot](yleiset/rahoittajat.md)    
     - [Rinnakkaistallennus ja Open Policy Finder](yleiset/rinnakkaistallennus.md)
     - [Sivuston navigointi](yleiset/navigointi.md)
