@@ -12,11 +12,11 @@ Alla on esimerkkejä yleisistä päivämäärä- ja aikamuodoista eri kielillä.
 | Tyyppi | PHP-kaava | Esimerkki |
 |---|---|---|
 | Päivämäärä (lyhyt) | `d.m.Y` | 21.10.2025 |
-| Päivämäärä (pitkä) | `d. F Y` | 21. lokakuuta 2025 |
+| Päivämäärä (pitkä, sisältää "ta") | `d. F\t\a Y` | 21. lokakuuta 2025 |
 | Kellonaika (24h) | `H:i` | 14:05 |
 | Kellonaika sekunneilla | `H:i:s` | 14:05:33 |
 | Päivämäärä + aika (lyhyt) | `d.m.Y H:i` | 21.10.2025 14:05 |
-| Päivämäärä + aika (teksti) | `d.m.Y 'klo' H.i` | 21.10.2025 klo 14.05 |
+| Päivämäärä + aika (teksti, sisältää "ta" ja "klo") | `d. F\t\a Y \k\l\o H.i` | 21. lokakuuta 2025 klo 14.05 |
 | ISO (yleinen) | `Y-m-d` | 2025-10-21 |
 | ISO + aika | `Y-m-d H:i` | 2025-10-21 14:05 |
 
@@ -31,7 +31,7 @@ Alla on esimerkkejä yleisistä päivämäärä- ja aikamuodoista eri kielillä.
 | Kellonaika (24h) | `H:i` | 14:05 |
 | Kellonaika sekunneilla | `H:i:s` | 14:05:33 |
 | Päivämäärä + aika (lyhyt) | `Y-m-d H:i` | 2025-10-21 14:05 |
-| Päivämäärä + aika (teksti) | `Y-m-d 'kl.' H.i` | 2025-10-21 kl. 14.05 |
+| Päivämäärä + aika (teksti) | `Y-m-d \k\l\. H.i` | 2025-10-21 kl. 14.05 |
 
 ---
 
@@ -44,7 +44,7 @@ Alla on esimerkkejä yleisistä päivämäärä- ja aikamuodoista eri kielillä.
 | Time (24h) | `H:i` | 14:05 |
 | Time with seconds | `H:i:s` | 14:05:33 |
 | Date + time (short) | `d/m/Y H:i` | 21/10/2025 14:05 |
-| Date + time (long) | `d F Y 'at' H:i` | 21 October 2025 at 14:05 |
+| Date + time (long) | `d F Y \a\t H:i` | 21 October 2025 at 14:05 |
 | ISO (common) | `Y-m-d` | 2025-10-21 |
 
 ---
@@ -58,6 +58,7 @@ Alla on esimerkkejä yleisistä päivämäärä- ja aikamuodoista eri kielillä.
 | Time (12h) | `g:i A` | 2:05 PM |
 | Time (12h, leading zero) | `h:i A` | 02:05 PM |
 | Date + time (short, 12h) | `m/d/Y g:i A` | 10/21/2025 2:05 PM |
-| Date + time (long, 12h) | `F j, Y 'at' g:i A` | October 21, 2025 at 2:05 PM |
+| Date + time (long, 12h) | `F j, Y \a\t g:i A` | October 21, 2025 at 2:05 PM |
 | ISO (common) | `Y-m-d` | 2025-10-21 |
+
 
