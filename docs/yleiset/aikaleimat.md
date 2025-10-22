@@ -3,11 +3,41 @@
 OJS- ja OMP-järjestelmien versio 3.4 tukee julkaisijoiden mahdollisuutta määrittää omat päivämäärien ja aikojen esitystavat.  
 Asetukset löytyvät kohdasta **Asetukset > Verkkosivusto > Asetukset > Päivämäärä ja aika**.
 
-Jokaiselle kielelle voidaan määrittää oma muotoilunsa. Julkaisija voi valita valmiin oletusasetuksen tai määrittää oman päivämäärä- ja aikamuodon. Omissa muodoissa käytetään PHP-ohjelmointikielen aikaleimaformaatteja, joiden kirjaimet kuvaavat päivämäärän ja kellonajan eri osia.   Lisätietoja löytyy [PHP-dokumentaatiosta (strftime-parametrit)](https://www.php.net/manual/en/function.strftime.php#refsect1-function.strftime-parameters).
+Jokaiselle kielelle voidaan määrittää oma muotoilunsa. Julkaisija voi valita valmiin oletusasetuksen tai määrittää oman päivämäärä- ja aikamuodon. Omissa muodoissa käytetään PHP-ohjelmointikielen aikaleimaformaatteja, joiden kirjaimet kuvaavat päivämäärän ja kellonajan eri osia. 
+
+Näitä kirjaimia yhdistelemällä saadaan haluttu päivämäärän ja/tai kellonajan muoto. Esimerkiksi `d.m.Y` tuottaa `21.04.2025`-muotoisen päivämäärän.  
+
+Jos mukaan halutaan kiinteitä kirjaimia tai sanoja, niiden eteen täytyy lisätä kenoviivat (`\`). Esimerkiksi `d. F\t\a Y` tuottaa `21. huhtikuuta 2025` -muotoisen päivämäärän. Ilman `\t\a`-osaa tulos olisi `21. huhtikuu 2025`.
+
+
+## PHP-päivämäärän ja -ajan muuttujat
+
+| Merkki | Esimerkki (2025-04-07 09:05:03) | Selitys |
+|---|---|---|
+| `d` | 07 | Päivämäärä kahdella numerolla (01–31) |
+| `j` | 7 | Päivämäärä ilman etunollaa |
+| `m` | 04 | Kuukausi kahdella numerolla (01–12) |
+| `n` | 4 | Kuukausi ilman etunollaa |
+| `Y` | 2025 | Vuosi nelinumeroisena |
+| `y` | 25 | Vuosi kahdella numerolla |
+| `F` | huhtikuu / April | Kuukauden nimi (lokalisoitu) |
+| `M` | huhti / Apr | Kuukauden nimen lyhennys (lokalisoitu) |
+| `H` | 09 | Tunnit 24h muodossa (00–23) |
+| `G` | 9 | Tunnit 24h muodossa ilman etunollaa |
+| `h` | 09 | Tunnit 12h muodossa (01–12) |
+| `g` | 9 | Tunnit 12h muodossa ilman etunollaa |
+| `i` | 05 | Minuutit (00–59) |
+| `A` | AM | Aikamerkintä isoilla kirjaimilla (AM/PM) |
+| `a` | am | Aikamerkintä pienillä kirjaimilla (am/pm) |
+| `l` | maanantai / Monday | Viikonpäivän nimi (lokalisoitu) |
+| `D` | ma / Mon | Viikonpäivän lyhennys |
+
+
+## Esimerkkejä 
 
 Alla on esimerkkejä yleisistä päivämäärä- ja aikamuodoista eri kielillä.
 
-## Suomi
+### Suomi
 
 | Tyyppi | PHP-kaava | Esimerkki |
 |---|---|---|
@@ -22,7 +52,7 @@ Alla on esimerkkejä yleisistä päivämäärä- ja aikamuodoista eri kielillä.
 
 ---
 
-## Ruotsi
+### Ruotsi
 
 | Tyyppi | PHP-kaava | Esimerkki |
 |---|---|---|
@@ -35,7 +65,7 @@ Alla on esimerkkejä yleisistä päivämäärä- ja aikamuodoista eri kielillä.
 
 ---
 
-## Englanti (UK)
+### Englanti (UK)
 
 | Tyyppi | PHP-kaava | Esimerkki |
 |---|---|---|
@@ -49,7 +79,7 @@ Alla on esimerkkejä yleisistä päivämäärä- ja aikamuodoista eri kielillä.
 
 ---
 
-## Englanti (US)
+### Englanti (US)
 
 | Tyyppi | PHP-kaava | Esimerkki |
 |---|---|---|
