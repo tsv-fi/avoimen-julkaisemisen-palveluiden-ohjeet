@@ -7,8 +7,8 @@
 Vaadittavat asetukset koskevat kolmea kokonaisuutta:
 
 1. Lehden yleiset asetukset
-2. DOI-lisäosan asetukset
-3. CrossRef-lisäosan asetukset (mikäli käytetään Crossrefin palveluita)
+3. Crossref-lisäosan asetukset
+3. DOI-asetukset
 
 ### Lehden yleiset asetukset
 
@@ -34,52 +34,45 @@ Alla mainitut asetukset täytetään kaikilla käytössä olevilla kielillä.
 * Kohdasta Submission Metadata / Käsikirjoituksen metatiedot valitse References / Lähdeviitteet / Referenser (rasti kahteen kohtaan)
 * Save / Tallenna / Spara
 
-### DOI-lisäosan asetukset
-
-**Settings => Website => Plugins / Asetukset => Verkkosivusto => Lisäosat / Inställningar => Webbplats => Plugins**
-
-* Listalta kohta DOI
-* Aktivoi lisäosa klikkaamalla sen perässä oleva valintalaatikkoa
-* Klikkaa sinistä kolmiota nimen edessä => Settings / Asetukset
-* Avautuvaan ikkunaan täytetään asetukset
-* Journal content / Julkaisun sisältö => **valitaan vain kohta Articles / Artikkelit / Artiklar**
-* DOI Prefix => _oma prefix_, joka on saatu TSV:ltä (esim. 10.1234)
-* DOI Suffix => ”Use pattern” / “Käytä muotoilua” / “Använd mönstret” => for articles / artikkeleille / för artiklar => **%j.%a**
-    * Muuttuja %j on asetuksissa annettu lehden lyhenne. Varmista, että lyhenteessä on käytetty vain kirjaimia, eli ei erikoismerkkejä kuten &. 
-* **ÄLÄ koskaan** paina Reassign DOIs / Määritä DOI-tunnisteet uudelleen / Tilldela DOI igen
-* Paina Save / Tallenna / Spara
-
-
 ### CrossRef-lisäosan asetukset
 
-Viimeisenä laitetaan kuntoon CrossRef-lisäosan asetukset. Tätä varten tarvitaan TSV:ltä lehden CrossRefin käyttäjätunnus ja salasana.
+CrossRef-lisäosan asetuksia varten tarvitaan TSV:ltä CrossRefin käyttäjätunnus ja salasana, ks. [Yleistä tietoa DOI-tunnisteiden käytöstä ja niitä koskevista sopimuksista löydät erillisestä ohjeesta](yleiset/doi.md).
 
-* Avaa asetukset kohdasta **Työkalut => Tuonti/Vienti => CrossRef XML -vientilisäosa / Verktyg => Importera/Exportera => Plugin för export av CrossRef-XML**.
-* Anna tallettajan nimi ja sähköpostiosoite. Käytä mahdollisuuksien mukaan jotain harvoin vaihtuvaa osoitetta.
-* Anna lomakkeen seuraavaan kohtaan käyttäjätunnus ja salasana.
+* Aktivoi Crossref-lisäosa kohdasta **Asetukset > Verkkosivusto > Lisäosat / Settings > Website / Plugins**
+* Avaa asetukset kohdasta **Asetukset > Jakelu > DOIt > Rekisteröinti / Settings > Distribution > DOIs > Registration**
+* Anna lomakkeeseen tallettajan nimi ja sähköposti sekä Crossrefin käyttäjätunnus ja salasana. 
 * Valitse lopuksi DOI-tunnisteiden automaattinen tallennus ja varmista, ettei testirajapinta ole valittuna. 
-* Tallenna asetukset
+* Paina **Tallenna / Save**.
+
+### DOI-asetukset
+
+**Settings => Distribution => DOIs / Asetukset => Jakelu => DOIt**
+
+* Aktivoi DOI-tunnuste käyttön sivulla näkyvästä valinnasta. Aktivoinnin jälkeen muut asetukset tulevat esille.
+* Valitse kohteet, joille DOI-tunnisteet määritetään: **valitaan vain kohta Articles / Artikkelit / Artiklar**
+* **Automaattinen DOI-tunnusten osoitus / Automatic DOI Assignment** Mikäli kaikille lehden sisällöille annetaan DOI, niin tästä asetuksesta voi valita joko teknisen toimituksen tai tuotannon, jolloin DOI luodaan sisällölle automaattisesti. **Huom!** Jos ette anna kaikille lehden sisällöille DOI-tunnusta, niin älkää käyttäkö automaattista DOI-tunnuksen luontia, vaan lisätkää DOIt halutuille artikkeleille manuaalisesti.
+* **DOI Prefix** _oma prefix_, joka on saatu TSV:ltä (esim. 10.1234)
+* **DOI Suffix** Käytä mukautettua rakennetta / Custom pattern
+    * Käsikirjoitukset/Submissions: **%j.%a**
+* Paina **Save/Tallenna**
 
 ## DOI-tunnisteiden lisääminen artikkeleihin
 
-### Uusi artikkeli
+Alla on kuvattu miten DOI-tunnus liitetään artikkelin metadataan. Tämän lisäksi on aina hyvä huolehtia siitä, että tunnus liitetään myös artikkelin kokotekstitiedoistoihin.
 
-Kun yllä kuvatut asetukset ovat kunnossa, tapahtuu DOI-tunnisteen lisääminen käsikirjoituksen tuotantovaiheessa. Siirry muokkaamaan käsikirjoituksen kuvailutietoja välilehdelle **Julkaiseminen** / **Publication** / **Publicering**. Valitse kohta **Tunnisteet** / **Identifiers** / **Identifikatorer** ja liitä DOI-tunnus valitsemalla **Aseta** / **Set** / **Tilldela** > **Tallenna** / **Save** / **Spara**.
+Kun yllä kuvatut asetukset ovat kunnossa, tapahtuu DOI-tunnisteen lisääminen tavallisesti käsikirjoituksen tuotantovaiheessa.
 
-![DOI-tunnisteiden lisääminen artikkeleihin](../_media/journalfi-doi-1.png "DOI-tunnisteiden lisääminen artikkeleihin")
+DOI-tunnuksia voi lisätä kohdasta **DOI-tunnukset / DOIs / DOIs**.
 
-### Vanha artikkeli
-
-Mikäli DOI-tunniste liitetään jo julkaistuun artikkeliin, pitää artikkelin julkaisu ensin perua **Julkaiseminen** / **Publication** / **Publicering** -välilehdeltä. Tämän jälkeen tunnus liitetään samalla tavalla kuin yllä on kuvattu ja artikkeli julkaistaan uudelleen.
-
-Jos tarkoituksena on liittää suuri määrä tunnuksia vanhoihin artikkeleihin, tulee olla ensin yhteydessä TSV:n tukeen. Vanhojen artikkeleiden DOI-tunnukset ovat maksullisia.
+Valitse artikkelit joille haluat lisätä DOI-tunnukset ja valitse **Massatoiminnot / Bulk Actions > Osoita DOI-tunnuksia / Assign DOIs**
 
 ### DOI-tunnisteen rekisteröinti
 
-Mikäli CrossRef-lisäosan asetukset on täytetty yllä olevien ohjeiden mukaisesti, OJS rekisteröi DOI-tunnisteet automaattisesti numeron julkaisun jälkeen. Rekisteröinnissä on aina 1-24 tunnin viive.
+Mikäli CrossRef-lisäosan asetuksista on otettu käyttöön automaattinen rekisteröinti, OJS rekisteröi DOI-tunnisteet numeron julkaisun jälkeen 1-24 tunnin viiveellä.
 
-Vaihtoehtoisesti tunnisteet voi rekisteröidä heti numeron julkaisun jälkeen manuaalisesti kohdasta **Tools => Import/Export => CrossRef XML Export Plugin => Articles** / **Työkalut => Tuonti/Vienti => CrossRef XML -vientilisäosa => Artikkelit** / **Verktyg => Importera/Exportera => Plugin för export av CrossRef-XML => Artiklar**.
-Avautuvalla sivulla on listattuna kaikki lehden artikkelit, joilla on DOI-tunniste. Artikkelin nimen perässä näkyy kyseisen artikkelin rekisteröinnin tila ja näkymää voi rajata valitsemalla “Hae”. Manuaalinen rekisteröinti tapahtuu valitsemalla haluttujen artikkeleiden valintaruutu ja klikkaamalla nappia **Rekisteröi/Deposit/Deponera**. _Crossrefin rajapinnan vastaus kestää jonkin aikaa, eli tässä pitää olla kärsivällinen._
+Vaihtoehtoisesti tunnisteet voi rekisteröidä heti numeron julkaisun jälkeen manuaalisesti. Rekisteröinti tapahtuu kohdasta **DOI-tunnukset / DOIs / DOIs** Avautuvalla sivulla näkyy listaus kaikista artikkeleista sekä niiden DOI-tunnusten tila. 
+
+Julkaistujen artikkeleiden DOI-tunnukset voi rekisteröidä painamalla **Talleta kaikki / Deposit All / Deponera Alla**. Ole kärsivällinen kun järjestelmä tekee tallennusta, siinä voi kulua pidempi aika. Järjestelmä ilmoittaa kun tallennus on valmis. Vaihtoehtoisesti voit saada virheilmoitukset, jossa kerrotaan mitä puutteita rekisteröitävän artikkelin kuvailutiedoissa on.
 
 
 ## DOI-tunnisteet vanhoille artikkeleille
