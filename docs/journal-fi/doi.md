@@ -48,7 +48,7 @@ CrossRef-lisäosan asetuksia varten tarvitaan TSV:ltä CrossRefin käyttäjätun
 
 **Settings => Distribution => DOIs / Asetukset => Jakelu => DOIt**
 
-* Aktivoi DOI-tunnuste käyttön sivulla näkyvästä valinnasta. Aktivoinnin jälkeen muut asetukset tulevat esille.
+* Aktivoi DOI-tunnusten käyttö sivulla näkyvästä valinnasta. Aktivoinnin jälkeen muut asetukset tulevat esille.
 * Valitse kohteet, joille DOI-tunnisteet määritetään: **valitaan vain kohta Articles / Artikkelit / Artiklar**
 * **Automaattinen DOI-tunnusten osoitus / Automatic DOI Assignment** Mikäli kaikille lehden sisällöille annetaan DOI, niin tästä asetuksesta voi valita joko teknisen toimituksen tai tuotannon, jolloin DOI luodaan sisällölle automaattisesti. **Huom!** Jos ette anna kaikille lehden sisällöille DOI-tunnusta, niin älkää käyttäkö automaattista DOI-tunnuksen luontia, vaan lisätkää DOIt halutuille artikkeleille manuaalisesti.
 * **DOI Prefix** _oma prefix_, joka on saatu TSV:ltä (esim. 10.1234)
