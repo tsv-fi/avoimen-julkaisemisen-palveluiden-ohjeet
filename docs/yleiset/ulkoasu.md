@@ -12,25 +12,29 @@ Palvelujen käyttöehtojen mukaisesti TSV vastaa TSV:n valmistaman perusteeman s
 
 Julkaisija voi myös teettää kokonaan oman ulkoasuteeman. Tällöin versiopäivitysten yhteydessä ilmenevät muutostarpeet jäävät lehden vastuulle.
 
-## TSV:n perusteeman muokkaus
+## TSV:n perusteeman käyttöönotto
 
-*HUOM!* TSV:n perusteema uudistuu lokakuussa 2025 ja alla olevat tekniset yksityiskohdat eivät enää päde. Päivitämme ohjeen uuden teeman käyttöönoton jälkeen. - 2025-09-25.
+### Teeman aktivointi
+Siirry kohtaan **Asetukset > Verkkosivusto > Lisäosat / Settings > Website > Plugins** ja aktivoi **TSV-teema / TSV Theme** -niminen lisäosa. 
+Kohdasta **Asetukset > Ulkoasu > Teema / Settings > Appearance > Theme** valitkaa teemaksi aktivoitu TSV-teema ja tallentakaa asetukset
 
-Julkaisija voi pyytää oman version TSV:n perusteemasta lähettämällä sähköpostia osoitteeseen [tuki@tsv.fi](mailto:tuki@tsv.fi). 
+### Teeman muokkaus
 
-Mikäli julkaisija haluaa perusteeman käyttöön, sille tehdään oma ns. lapsiteema. Lapsiteema perii suurimman osan ulkoasuun liittyvistä seikoista ns. emoteemalta, eli TSV:n perusteemalta. Kaikki julkaisijaa koskevat muutokset tehdään lapsiteemaan, eli sinne lisätään tavallaan vain julkaisijaa koskevat poikkeukset. Tällä tavalla perusteemaa käyttävien julkaisijoiden ulkoasut saadaan pysymään hyvin ajantasalla, koska suurin osa teknisistä muutoksista  tehdään samaan perusteemaan, josta muutokset vaikuttavat kaikkiin lapsiteemoihin. 
+Kohdassa **Asetukset > Ulkoasu > Teema / Settings > Appearance > Theme** voi muuttaa teeman asetuksia.
 
-**Teeman valmistamista varten julkaisijan tulee toimittaa TSV:lle:**
+Värivalinta koskee väriä, jota käytetään mm. linkkeihin sekä vaaleampien teemassa näkyvien sävyjen muodostamiseen. **Huom!** Huomatkaa saavutettavuus, eli riittävän tumma väri vaaleaa taustaa vasten.
 
-* Yläpalkin kuva. Koko 2300x340 pikseliä. Kuvasta näkyy tavallisesti vain 1200-1600 pikseliä keskeltä. Kuvan sijaan voidaan käyttää myös toistuvaa taustakuviota tai pelkkää kiinteää väriä. Kuva voi olla png- tai jpg-muodossa. Väri ilmoitetaan heksadesimaalimuodossa, esim. _#2596be_
-* Logo. Lehden tai julkaisijan logo kannattaa tallentaa **png**-muotoon ja **läpinäkyvällä** taustalla. Logon korkeuden tai leveyden tulee olla vähintään 200 pikseliä.
-* Värit. Periaatteessa kaikkia teeman värejä voidaan muuttaa. Värit ilmoitetaan heksadesimaalimuodossa, esim. _#2596be_
+Kohdasta **Asetukset > Ulkoasu > Asetukset / Settings > Appearance > Setup** voi lisätä yläpalkkiin halutun taustakuvan kohtaan **Etusivun kuva / Homepage Image**. 
 
-Tämän lisäksi kaikki tekstisisällöt ovat muokattavissa hallintapaneelin kautta.
+Kuvalla ei ole tarkkaa kokovaatimusta, mutta hyvä leveys on esimerkiksi 2500 pikseliä. Yli 3000 pikseliä leveitä kuvia ei kannata käyttää. Jos kuva on yläpalkkia isompi, niin teema näyttää siitä osan riippuen selaimen ikkunan koosta. **Huom!** Myös taustakuvassa on hyvä muistaa saavutettavuus ja riittävä kontrasti yläpalkin logon tai tekstien sekä taustan välillä eri kokoisilla ikkunoilla. Lisäksi on hyvä kiinnittää huomiota kuvan kokoon. Hyvä tavoitekoko yläpalkin kuvalle on 400-600 kilotavua.
 
-TSV:n perusteema on esimerkiksi seuraavien lehtien käytössä Journal.fi-palvelussa:
+Kohdasta **Asetukset > Ulkoasu > Asetukset / Settings > Appearance > Setup** voi lisätä yläpalkkiin tulevan logon kohtaan **Logo**. 
 
-* [Virittäjä](https://journal.fi/virittaja)
-* [Gerontologia](https://journal.fi/gerontologia)
-* [Fennia - International Journal of Geography](https://fennia.journal.fi/)
+Lehden tai julkaisijan logo kannattaa tallentaa **png**-muotoon ja **läpinäkyvällä** taustalla. Logon korkeuden tai leveyden tulee olla vähintään 200 pikseliä.
+
+Muistakaa tallentaa tehdyt uudet asetukset.
+
+Kysymykset perusteeman käyttöönotosta [tuki@tsv.fi](mailto:tuki@tsv.fi). 
+
+TSV:n perusteemaan voi tutustua testilehdessä [https://ojstest.tsv.fi/tietsano](https://ojstest.tsv.fi/tietsano).
 
