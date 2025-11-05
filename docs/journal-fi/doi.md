@@ -36,7 +36,7 @@ Alla mainitut asetukset täytetään kaikilla käytössä olevilla kielillä.
 
 ### CrossRef-lisäosan asetukset
 
-CrossRef-lisäosan asetuksia varten tarvitaan TSV:ltä CrossRefin käyttäjätunnus ja salasana, ks. [Yleistä tietoa DOI-tunnisteiden käytöstä ja niitä koskevista sopimuksista löydät erillisestä ohjeesta](yleiset/doi.md).
+CrossRef-lisäosan asetuksia varten tarvitaan TSV:ltä CrossRefin käyttäjätunnus ja salasana, ks. [DOI-tunnisteita koskeva yleinen ohjeistus](yleiset/doi.md).
 
 * Aktivoi Crossref-lisäosa kohdasta **Asetukset > Verkkosivusto > Lisäosat / Settings > Website / Plugins**
 * Avaa asetukset kohdasta **Asetukset > Jakelu > DOIt > Rekisteröinti / Settings > Distribution > DOIs > Registration**
