@@ -19,7 +19,7 @@ Ohjeita Tieteellisten seurain valtuuskunnan ylläpitämien Journal.fi- ja Editio
     - [Aineistojen tuonti](yleiset/tuonnit.md)
     - [Vertaisarviointitunnus](yleiset/vertaisarviointitunnus.md)
 - Journal.fi
-    - [Learning OJS 3.2 (PKP Docs)](https://docs.pkp.sfu.ca/learning-ojs/3.2/)
+    - [Learning OJS 3.4 (PKP Docs)](https://docs.pkp.sfu.ca/learning-ojs/3.4/en/)
     - [Artikkeleiden ennakkojulkaisu](journal-fi/ennakkojulkaisu.md)
     - [Artikkeleiden näkyvyys ja Journal.fi](journal-fi/artikkeleiden-nakyvyys.md)
     - [Directory of Open Access Journals (DOAJ) -tietokanta ja Journal.fi](journal-fi/doaj.md)
