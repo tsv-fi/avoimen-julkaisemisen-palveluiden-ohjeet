@@ -104,19 +104,15 @@ Lisää artikkelin **tekijät/contributors/medarbetare**.
 
 Jätä kohta **julkaistavat tiedostot/Galleys/Publiceringsversioner** tyhjäksi tässä vaiheessa.
 
-Varmista, että **DOI**-tunnusta koskeva kohta on valittuna. 
-
 Valitse lopusta vaihtoehto **Julkaisematon/Unpublished/Opublicerad**.
 
 Paina lopuksi **Tallenna/Save/Spara**.
 
 Saat ilmoituksen, että artikkeli on luotu.
 
-Kun kaikki uuteen numeroon tarkoitetut artikkelit on lisätty yllä kuvatulla tavalla, voit siirtyä kohtaan **Käsikirjoitukset/Submissions/Bidrag** ja valita sieltä välilehden **Kaikki aktiiviset/All Active/Alla aktiva**. Kaikki juuri lisäämäsi artikkelit pitäisi näkyä listauksessa ja niiden pitäisi olla tuotantovaiheessa.
+Kun kaikki uuteen numeroon tarkoitetut artikkelit on lisätty yllä kuvatulla tavalla, voit siirtyä kohtaan **DOI-tunnukset/DOIs/DOI:er** Kaikki juuri lisäämäsi artikkelit pitäisi näkyä listauksessa.
 
-Klikkaa jotain artikkelia, jolloin siirryt sen työnkulkuun.
-
-Jos sinulla ei ole vielä tiedossa avatun artikkelin DOI-tunnusta, valitse välilehti **Julkaiseminen/Publication/Publicering** ja sieltä kohta **Tunnisteet/Identifiers/Identifikatorer**. Välilehdellä näkyy artikkeliin liitetty DOI-tunnus. Jos tunnusta ei jostain syystä näy, voit luoda sen painamalla **Aseta/Set/Sätta**.
+Valitse halutut artikkelit ja valitse kohdasta Massatoiminnot vaihtoehto "Osoita DOI-tunnuksia". Lisätyt DOIt näkyvät klikkaamalla artikkelin nimen vieressä olevaa sinistä nuolta.
 
 _Voit nyt päivittää tunnuksen artikkelin taittotiedostoon ja luoda julkaistavan kokotekstitiedoston._
 
