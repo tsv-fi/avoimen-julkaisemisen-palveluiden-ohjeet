@@ -64,7 +64,9 @@ Kun yllä kuvatut asetukset ovat kunnossa, tapahtuu DOI-tunnisteen lisääminen 
 
 DOI-tunnuksia voi lisätä kohdasta **DOI-tunnukset / DOIs / DOIs**.
 
-Valitse artikkelit joille haluat lisätä DOI-tunnukset ja valitse **Massatoiminnot / Bulk Actions > Osoita DOI-tunnuksia / Assign DOIs**
+Valitse rastittamalla artikkelit joille haluat lisätä DOI-tunnukset ja valitse **Massatoiminnot / Bulk Actions > Osoita DOI-tunnuksia / Assign DOIs**
+
+Huomaa, että voit rajat näkyviä artikkeleita esimerkiksi numeron mukaan. Kirjoita tällöin kohtaan **Numerot** vuosiluku ja valitse haluttu numero esille tulevista ehdotuksista.
 
 ### DOI-tunnisteen rekisteröinti
 
@@ -74,6 +76,7 @@ Vaihtoehtoisesti tunnisteet voi rekisteröidä heti numeron julkaisun jälkeen m
 
 Julkaistujen artikkeleiden DOI-tunnukset voi rekisteröidä painamalla **Talleta kaikki / Deposit All / Deponera Alla**. Ole kärsivällinen kun järjestelmä tekee tallennusta, siinä voi kulua pidempi aika. Järjestelmä ilmoittaa kun tallennus on valmis. Vaihtoehtoisesti voit saada virheilmoitukset, jossa kerrotaan mitä puutteita rekisteröitävän artikkelin kuvailutiedoissa on.
 
+Voit myös valita tietyt artikkelit rastittamalla ne ja valitsemalla sen jälkeen kohdasta **Massatoiminnot** vaihtoehdon **Talleta DOI-tunnukset**. Huomaa, että voit rajat näkyviä artikkeleita esimerkiksi numeron mukaan. Kirjoita tällöin kohtaan **Numerot** vuosiluku ja valitse haluttu numero esille tulevista ehdotuksista.
 
 ## DOI-tunnisteet vanhoille artikkeleille
 
