@@ -10,7 +10,7 @@ Julkaisija voi valita vapaasti oman ulkoasuteeman. Ylläpidon helpottamiseksi su
 
 Palvelujen käyttöehtojen mukaisesti TSV vastaa TSV:n valmistaman perusteeman sekä OJS/OMP-järjestelmän mukana tulevan perusteeman versiopäivityksistä. Tämä tarkoittaa siis tilanteita, jossa OJS/OMP-järjestelmään tulevat versiopäivitykset vaikuttavat jollakin tavalla ulkoasuteemojen toimintaan.
 
-TSV:n perusteemaan voi tutustua tarkemmin testilehdessä [https://ojstest.tsv.fi/tietsano](https://ojstest.tsv.fi/tietsano).
+TSV:n perusteemaan voi tutustua tarkemmin OJS-testisivustolla [https://ojstest.tsv.fi](https://ojstest.tsv.fi) tai OMP-testisivustolla [https://omptest.tsv.fi](https://omptest.tsv.fi).
 
 Julkaisija voi myös teettää kokonaan oman ulkoasuteeman. Tällöin versiopäivitysten yhteydessä ilmenevät muutostarpeet jäävät lehden vastuulle.
 
@@ -58,6 +58,6 @@ Kuvan lisäämisen jälkeen muista tallentaa asetussivu.
 
 #### Navigointipalkin muokkaus
 
-[Sivustolla näkyvää navigointipalkkia voi muokata erillisen ohjeen avulla](yleiset/doi.md).
+[Sivustolla näkyvää navigointipalkkia voi muokata erillisen ohjeen avulla](yleiset/navigointi.md).
 
 
