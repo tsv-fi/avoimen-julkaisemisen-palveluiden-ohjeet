@@ -101,6 +101,7 @@ Voit lisätä myös linkin verkkokauppaan, joka myy painettua kirjaa tai esimerk
 
 * Valitse **Lisää luku/Add Chapter/Lägg till kapitel**
 * Anna luvun otsikko sekä mahdollinen alaotsikko, abstrakti ja sivunumerot.
+* Kohdasta **Luvun laskeutumissivu/Chapter Page/Kapitelsida** valitse luvulle oma laskeutumissivu. Tämä vaaditaan, jos luvulle halutaan oma DOI-tunnus.
 * Kohdasta **Lisää tekijä/Add Contributor/Lägg till medarbetare** voi valita lukua koskevat kirjoittajat. Tässä näkyvät kaikki tekijäluetteloon lisätyt nimet.
 * Kohdasta **Tiedostot/Files/Filer** voit valita lukua koskevat kokotekstitiedostot. Niiden pitää olla lisättynä julkaisumuodon yhteyteen.
 * Paina lopuksi **Tallenna/Save/Spara**
