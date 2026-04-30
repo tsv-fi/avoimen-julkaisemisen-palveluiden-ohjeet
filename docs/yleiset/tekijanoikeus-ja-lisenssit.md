@@ -105,7 +105,7 @@ Tässä asetuksessa ei kannata kerrata sellaisia tietoja, jotka näkyvät jo tek
 
 ## C-info-lisäosa
 
-C-info-lisäosa mahdollistaa C-info-painikkeen näyttämisen artikkelin sivulla. Lisätietoja C-infosta ja sen käyttötarkoituksesta löydät [täältä](https://www.tsv.fi/cinfo) https://c-info.fi/
+C-info-lisäosa mahdollistaa C-info-painikkeen näyttämisen artikkelin sivulla. Lisätietoja C-infosta ja sen käyttötarkoituksesta löydät [C-infon kotisivuilta](https://c-info.fi/).
 
 Lisäosan voi ottaa käyttöön kohdasta **Asetukset > Verkkosivusto > Lisäosat**. Etsi lisäosien listalta C-info ja aktivoi lisäosa.
 
