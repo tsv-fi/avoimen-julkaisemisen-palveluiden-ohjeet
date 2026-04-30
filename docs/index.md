@@ -15,7 +15,7 @@ Ohjeita Tieteellisten seurain valtuuskunnan ylläpitämien Journal.fi- ja Editio
     - [Rinnakkaistallennus ja Open Policy Finder (entinen Sherpa Romeo)](yleiset/rinnakkaistallennus.md)
     - [Sivuston navigointi](yleiset/navigointi.md)
     - [Sivuston ulkoasu](yleiset/ulkoasu.md)
-    - [Tekijänoikeus ja Creative Commons -lisenssit](yleiset/tekijanoikeus-ja-lisenssit.md)
+    - [Tekijänoikeus ja lisenssit](yleiset/tekijanoikeus-ja-lisenssit.md)
     - [Aineistojen tuonti](yleiset/tuonnit.md)
     - [Vertaisarviointitunnus](yleiset/vertaisarviointitunnus.md)
 - Journal.fi

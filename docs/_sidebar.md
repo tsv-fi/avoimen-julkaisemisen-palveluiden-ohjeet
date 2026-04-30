@@ -14,7 +14,7 @@
     - [Rinnakkaistallennus ja Open Policy Finder](yleiset/rinnakkaistallennus.md)
     - [Sivuston navigointi](yleiset/navigointi.md)
     - [Sivuston ulkoasu](yleiset/ulkoasu.md)
-    - [Tekijänoikeus ja CC-lisenssit](yleiset/tekijanoikeus-ja-lisenssit.md)
+    - [Tekijänoikeus ja lisenssit](yleiset/tekijanoikeus-ja-lisenssit.md)
     - [Vertaisarviointitunnus](yleiset/vertaisarviointitunnus.md)
 - Journal.fi
     - [Artikkeleiden näkyvyys](journal-fi/artikkeleiden-nakyvyys.md)
