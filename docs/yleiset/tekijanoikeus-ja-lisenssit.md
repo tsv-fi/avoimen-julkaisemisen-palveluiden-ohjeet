@@ -1,4 +1,4 @@
-# Tekijänoikeus ja Creative Commons -lisenssit
+# Tekijänoikeus ja lisenssit
 
 ## Tekijänoikeus
 
@@ -102,3 +102,33 @@ Artikkelin laskeutumissivulle näkyy lisenssin ja tekijänoikeuden asetusten muk
 Näiden tietojen lisäksi lisenssiä koskien voi antaa myös jokaisen artikkelin laskeutumissivulla näkyviä vapaamuotoisia lisätietoja asetusten kohdasta **Asetukset > Jakelu > Lisenssi > Lisenssin ehdot Settings => Distribution => License => License Terms / Inställningar => Distribution => Licens => Licensvillkor.**
 
 Tässä asetuksessa ei kannata kerrata sellaisia tietoja, jotka näkyvät jo tekijänoikeutta ja lisenssiä koskevissa asetuksissa, kuten CC-lisenssin tarkemmat ehdot tai tekijänoikeuden haltija. Mahdollisia annettavia lisätietoja voi olla esimerkiksi artikkelin metadatan lisenssiä tai rinnakkaistallennuslupaa koskevat tiedot. Tähän annettavan kuvauksen on hyvä olla lyhyt.
+
+## C-info-lisäosa
+
+C-info-lisäosa mahdollistaa C-info-painikkeen näyttämisen artikkelin sivulla. Lisätietoja C-infosta ja sen käyttötarkoituksesta löydät [täältä](https://www.tsv.fi/cinfo) https://c-info.fi/
+
+Lisäosan voi ottaa käyttöön kohdasta **Asetukset > Verkkosivusto > Lisäosat**. Etsi lisäosien listalta C-info ja aktivoi lisäosa.
+
+### C-info-lisäosan asetukset
+
+Avaa lisäosan asetuksesta painamalla lisäosan nimen edestä sinistä kolmiota ja valitse sieltä kohta **Asetukset**.
+
+![Lisäosan asetukset](../_media/cinfo-1.png "Lisäosan asetukset")
+
+Syötä C-info-palvelusta saamasi koodi tekstikenttään. Koodi on HTML-muotoinen upotuskoodi, jonka voit luoda [C-infon kotisivuilta löytyvällä lomakkeella](https://c-info.fi/tilaa-c-info/).
+
+Koodi näyttää tältä, mutta sen tarkka rakenne riippuu lomakkeelle annetuista tiedoista. Tätä esimerkkikoodia ei tule käyttää omalla sivustolla.
+
+```
+<c-info v="2" ct="1" pb="Tekijät" ca="" ma="" na="" cb="" mb="1" nb="" cc="" mc="" nc="" tr="" cr="2" vr="" sr="" tl="" tc="" vc="" sc="" sl="" dl="fi" es="0" ep="1" cp="" cl=""></c-info><script src="https://www.c-info.fi/c-info.js"></script>
+```
+Muista tallentaa asetukset.
+
+## Tunnuksen lisääminen yksittäiselle artikkelille
+
+Oletuksena C-info-painike näytetään kaikkien artikkeleiden/kirjojen laskeutumissivuilla. Jos haluat valita erikseen, millä artikkeleilla/kirjoilla tunnus näytetään, valitse asetuksista kohta **C-info-painike lisätään vain valittuihin artikkeleihin**
+
+Voit nyt lisätä painikkeen yksittäisille artikkeleille/kirjoille muokkaamalla artikkelin/kirjan kuvailutietoja. Painike lisätään lisenssiä koskevista kuvailutiedoista, kohdasta **Luvat ja saatavuus**.
+
+![C-info-painikkeen lisäys](../_media/cinfo-2.png "C-info-painikkeen lisäys")
+
