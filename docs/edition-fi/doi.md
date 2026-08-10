@@ -1,6 +1,6 @@
 # DOI-tunnisteiden käyttö Edition.fi-palvelussa
 
-[Yleistä tietoa DOI-tunnisteiden käytöstä ja niitä koskevista sopimuksista löydät erillisestä ohjeesta](yleiset/doi.md). Tässä ohjeessa neuvotaan DOI-tunnisteiden käyttöä Edition.fi-palvelussa ja siinä käytössä olevassa Open Monograph Press -järjestelmässä (OMP).
+[Yleistä tietoa DOI-tunnisteiden käytöstä ja niitä koskevista sopimuksista löydät erillisestä ohjeesta](../yleiset/doi.md). Tässä ohjeessa neuvotaan DOI-tunnisteiden käyttöä Edition.fi-palvelussa ja siinä käytössä olevassa Open Monograph Press -järjestelmässä (OMP).
 
 ## Julkaisijan sivuston asetukset
 

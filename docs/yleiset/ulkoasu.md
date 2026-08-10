@@ -58,6 +58,6 @@ Kuvan lisäämisen jälkeen muista tallentaa asetussivu.
 
 #### Navigointipalkin muokkaus
 
-[Sivustolla näkyvää navigointipalkkia voi muokata erillisen ohjeen avulla](yleiset/navigointi.md).
+[Sivustolla näkyvää navigointipalkkia voi muokata erillisen ohjeen avulla](navigointi.md).
 
 

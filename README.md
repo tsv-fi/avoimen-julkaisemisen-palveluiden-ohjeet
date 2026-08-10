@@ -6,3 +6,7 @@ Tämä on tietovarasto, jossa ylläpidetään Tieteellisten seurain valtuuskunna
 - [Edition.fi-palvelun ohjeet](https://github.com/tsv-fi/avoimen-julkaisemisen-palveluiden-ohjeet/tree/main/docs/edition-fi)
 
 Julkinen ohjesivusto löytyy osoitteesta https://tsv-fi.github.io/avoimen-julkaisemisen-palveluiden-ohjeet
+
+## Päivitykset
+
+Päivitetty käyttöön Mkdocs-pohjainen versio 2026-08-10

@@ -1,6 +1,6 @@
 # DOI-tunnisteiden käyttö Journal.fi-palvelussa
 
-[Yleistä tietoa DOI-tunnisteiden käytöstä ja niitä koskevista sopimuksista löydät erillisestä ohjeesta](yleiset/doi.md). Tässä ohjeessa neuvotaan DOI-tunnisteiden käyttöä Journal.fi-palvelussa ja siinä käytössä olevassa Open Journal Systems -järjestelmässä (OJS).
+[Yleistä tietoa DOI-tunnisteiden käytöstä ja niitä koskevista sopimuksista löydät erillisestä ohjeesta](../yleiset/doi.md). Tässä ohjeessa neuvotaan DOI-tunnisteiden käyttöä Journal.fi-palvelussa ja siinä käytössä olevassa Open Journal Systems -järjestelmässä (OJS).
 
 ## Lehden asetukset
 
@@ -36,7 +36,7 @@ Alla mainitut asetukset täytetään kaikilla käytössä olevilla kielillä.
 
 ### CrossRef-lisäosan asetukset
 
-CrossRef-lisäosan asetuksia varten tarvitaan TSV:ltä CrossRefin käyttäjätunnus ja salasana, ks. [DOI-tunnisteita koskeva yleinen ohjeistus](yleiset/doi.md).
+CrossRef-lisäosan asetuksia varten tarvitaan TSV:ltä CrossRefin käyttäjätunnus ja salasana, ks. [DOI-tunnisteita koskeva yleinen ohjeistus](../yleiset/doi.md).
 
 * Aktivoi Crossref-lisäosa kohdasta **Asetukset > Verkkosivusto > Lisäosat / Settings > Website / Plugins**
 * Avaa asetukset kohdasta **Asetukset > Jakelu > DOIt > Rekisteröinti / Settings > Distribution > DOIs > Registration**

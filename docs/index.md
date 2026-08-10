@@ -2,7 +2,6 @@
 
 Ohjeita Tieteellisten seurain valtuuskunnan ylläpitämien Journal.fi- ja Edition.fi palveluiden käyttöön. Ohjetiedostoja koskevaa palautetta tai korjausehdotuksia voi lähettää osoitteeseen [tuki@tsv.fi](mailto:tuki@tsv.fi).
 
-- [Etusivu](/ "TSV:n avoimen julkaisemisen palveluiden ohjeet")
 - Liittyminen ja tuki
     - [Liittyminen palveluun](yleiset/liittyminen.md)
     - [Tiedotuslista](yleiset/tiedotuslista.md)

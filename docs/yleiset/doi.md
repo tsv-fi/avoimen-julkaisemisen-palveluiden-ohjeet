@@ -31,5 +31,5 @@ Palvelu on tällä hetkellä ilmainen jäsenseuroille. Tämä koskee DOI-tunnuks
 
 Journal.fi- ja Edition.fi-palveluita käyttäville julkaisijoille on erilliset tekniset ohjeistukset:
 
-* [DOI-tunnisteiden käyttö Journal.fi-palvelussa](journal-fi/doi.md)
-* [DOI-tunnisteiden käyttö Edition.fi-palvelussa](edition-fi/doi.md)
+* [DOI-tunnisteiden käyttö Journal.fi-palvelussa](../journal-fi/doi.md)
+* [DOI-tunnisteiden käyttö Edition.fi-palvelussa](../edition-fi/doi.md)

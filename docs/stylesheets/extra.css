@@ -1,0 +1,24 @@
+/* TSV:n väriteema, poimittu nykyisen Docsify-sivuston index.html:stä
+   (--theme-color / --sidebar-background: #401c4a) */
+:root {
+  --md-primary-fg-color: #401c4a;
+  --md-primary-fg-color--light: #6a3f75;
+  --md-primary-fg-color--dark: #2b0f33;
+  --md-accent-fg-color: #401c4a;
+  --md-accent-fg-color--transparent: #401c4a1a;
+}
+
+/* Otsikkofontti, kuten nykyisessä sivustossa (Oswald) */
+.md-header,
+.md-nav,
+h1, h2, h3, h4 {
+  font-family: "Oswald", "Open Sans", sans-serif;
+}
+
+
+.md-header__button.md-logo {
+  display: none;
+}
+[dir=ltr] .md-header__title {
+  margin-left: 0;
+}

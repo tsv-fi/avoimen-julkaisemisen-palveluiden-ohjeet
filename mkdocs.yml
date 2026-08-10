@@ -1,0 +1,85 @@
+site_name: TSV:n avoimen julkaisemisen palveluiden ohjeet
+site_url: https://tsv-fi.github.io/avoimen-julkaisemisen-palveluiden-ohjeet/
+site_description: Tieteellisten seurain valtuuskunnan avoimen julkaisemisen palveluiden (Journal.fi, Edition.fi) ohjeet
+#repo_url: https://github.com/tsv-fi/avoimen-julkaisemisen-palveluiden-ohjeet
+#repo_name: tsv-fi/avoimen-julkaisemisen-palveluiden-ohjeet
+#edit_uri: edit/main/docs/
+docs_dir: docs
+
+theme:
+  name: material
+  language: fi
+  logo: _media/logo-tsv-white.png
+  favicon: _media/logo-tsv.png
+  palette:
+    - scheme: default
+      primary: custom
+      accent: custom
+  font:
+    text: Open Sans
+    code: Roboto Mono
+  features:
+    - navigation.tabs        # päänavigaatio ylös, kuten Docsifyn sivupalkin pääotsikot
+    - navigation.sections
+    - navigation.top          # "takaisin ylös" -painike, kuten auto2top Docsifyssä
+    - navigation.footer       # edellinen/seuraava-sivu -painikkeet (korvaa docsify-pagination)
+    - navigation.indexes
+    - search.suggest
+    - search.highlight
+    # - content.action.edit     # "Muokkaa tätä sivua" -linkki GitHubiin
+    - content.code.copy
+    - toc.follow
+
+extra_css:
+  - stylesheets/extra.css
+
+markdown_extensions:
+  - toc:
+      permalink: true
+      title: Sisällys           # korvaa docsify-toc-pluginin
+  - admonition
+  - attr_list
+  - md_in_html
+  - tables
+  - footnotes
+
+plugins:
+  - search:
+      lang: fi                  # Lunr-haku suomenkielisellä sanastolla, korvaa docsify/search.js
+
+extra:
+  social:
+    - icon: fontawesome/solid/globe
+      link: https://www.tsv.fi
+
+# Navigaatio vastaa nykyistä docs/_sidebar.md -rakennetta.
+# HUOM: tähän listaan pitää lisätä loput sivut, ks. MIGRAATIO-OHJE.md
+nav:
+  - Liittyminen ja tuki:
+      - Liittyminen palveluun: yleiset/liittyminen.md
+      - Tiedotuslista: yleiset/tiedotuslista.md
+      - Tukipyynnöt: yleiset/tukipyynnot.md
+      - UKK: https://tuki.tsv.fi/kb/faq.php?cid=1
+  - Palvelujen yhteiset ohjeet:
+      - Aineistojen tuonti: yleiset/tuonnit.md
+      - DOI-tunnisteet: yleiset/doi.md
+      - Päivämäärän ja ajan muotoilu: yleiset/aikaleimat.md
+      - Rahoittajatiedot: yleiset/rahoittajat.md
+      - Rinnakkaistallennus ja Open Policy Finder: yleiset/rinnakkaistallennus.md
+      - Sivuston navigointi: yleiset/navigointi.md
+      - Sivuston ulkoasu: yleiset/ulkoasu.md
+      - Tekijänoikeus ja lisenssit: yleiset/tekijanoikeus-ja-lisenssit.md
+      - Vertaisarviointitunnus: yleiset/vertaisarviointitunnus.md
+  - Journal.fi:
+      - Artikkeleiden näkyvyys: journal-fi/artikkeleiden-nakyvyys.md
+      - DOI ja Journal.fi: journal-fi/doi.md
+      - DOAJ: journal-fi/doaj.md
+      - Embargo: journal-fi/embargo.md
+      - Ennakkojulkaisu: journal-fi/ennakkojulkaisu.md
+      - HTML-artikkelit: journal-fi/css.md
+      - ORCID ja Journal.fi: journal-fi/orcid.md
+      - Pikajulkaisu: journal-fi/pikajulkaisu.md
+      - Tilastot: journal-fi/tilastot.md
+  - Edition.fi:
+      - Kirjojen julkaisu: edition-fi/julkaisu.md
+      - DOI ja Edition.fi: edition-fi/doi.md
