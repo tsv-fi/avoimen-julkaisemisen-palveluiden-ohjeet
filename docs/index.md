@@ -17,6 +17,7 @@ Ohjeita Tieteellisten seurain valtuuskunnan ylläpitämien Journal.fi- ja Editio
     - [Tekijänoikeus ja lisenssit](yleiset/tekijanoikeus-ja-lisenssit.md)
     - [Aineistojen tuonti](yleiset/tuonnit.md)
     - [Vertaisarviointitunnus](yleiset/vertaisarviointitunnus.md)
+    - [Keskeneräisten käsikirjoitusten poisto](yleiset/keskeneraiset.md)
 - Journal.fi
     - [Learning OJS 3.4 (PKP Docs)](https://docs.pkp.sfu.ca/learning-ojs/3.4/en/)
     - [Artikkeleiden ennakkojulkaisu](journal-fi/ennakkojulkaisu.md)
@@ -32,5 +33,3 @@ Ohjeita Tieteellisten seurain valtuuskunnan ylläpitämien Journal.fi- ja Editio
     - [Learning OMP 3.4 (PKP Docs)](https://docs.pkp.sfu.ca/learning-omp/en/)
     - [Kirjojen julkaisu ja hallinta Edition.fi-palvelussa](edition-fi/julkaisu.md)
     - [DOI-tunnisteiden käyttö Edition.fi-palvelussa](edition-fi/doi.md)
-
-
