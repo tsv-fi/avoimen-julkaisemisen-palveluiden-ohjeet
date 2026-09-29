@@ -16,20 +16,19 @@ Julkaisija voi myös teettää kokonaan oman ulkoasuteeman. Tällöin versiopäi
 
 ## TSV:n perusteeman käyttöönotto
 
-### Teeman aktivointi
 Siirry kohtaan **Asetukset > Verkkosivusto > Lisäosat / Settings > Website > Plugins** ja aktivoi **TSV-teema / TSV Theme** -niminen lisäosa. 
 
 Kohdasta **Asetukset > Ulkoasu > Teema / Settings > Appearance > Theme** valitkaa teemaksi aktivoitu TSV-teema ja tallentakaa asetukset
 
 ![Ulkoasuteeman valinta](../_media/teemat1.png "Ulkoasuteeman valinta")
 
-### TSV-teeman asetukset
+## TSV-teeman asetukset
 
 Sivuston ulkoasuun vaikuttavat sekä teeman omat asetukset että useat OJS:n ja OMP:n perusasetukset. Tässä ohjeessa käydään läpi molemmat: ensin OJS:lle ja OMP:lle yhteiset asetukset, sitten kummankin järjestelmän omat asetukset.
 
-#### Yhteiset asetukset (OJS ja OMP)
+### Yhteiset asetukset (OJS ja OMP)
 
-##### Teeman omat asetukset
+#### Teeman omat asetukset
 
 Nämä löytyvät kohdasta **Ulkoasu > Teema**.
 
@@ -52,7 +51,6 @@ Valitse, onko yläpalkin kuva etusivulla korkeampi kuin muilla sivuilla, vai sam
 Valitse, mitä mobiililaitteilla näkyvän sivuston yläpalkissa näytetään: pelkkä julkaisijan/lehden nimi, lehden/julkaisijan logo vai pikkuva. Jos valittua kuvaa ei ole asetettu, näytetään nimi.
 
 **Etusivun osiot**
-
 Valitse, mitkä osiot näkyvät etusivulla ja missä järjestyksessä. Osion voi poistaa etusivulta kokonaan jättämällä sen valitsematta. Järjestystä voi muuttaa raahaamalla. Käytettävissä olevat osiot eroavat OJS:ssä ja OMP:ssä, ja ne on lueteltu tämän ohjeen OJS- ja OMP-osioissa.
 
 OJS/OMP-järjestelmille yhteiset osiot ovat:
@@ -64,7 +62,7 @@ OJS/OMP-järjestelmille yhteiset osiot ovat:
 **Etusivun lohkot**
 Valitse, mitkä lohkot näkyvät etusivun Lohkot-osiossa ja missä järjestyksessä. Tämä on **eri asetus** kuin Sivupalkki-asetus (ks. alla), joka koskee alatunnistetta ja tiettyjä sisäsivuja. Lohkot-osio pitää lisäksi valita näkyviin Etusivun osiot -asetuksesta, jotta se näkyy etusivulla.
 
-##### Logo
+#### Logo
 
 **Ulkoasu > Asetukset > Logo**
 
@@ -88,7 +86,7 @@ Logo näkyy lisäksi:
 - Rajaa kuva tiukasti logon ympäriltä. Ylimääräinen tyhjä tila pienentää logoa.
 - Jos logossa ei ole lehden tai julkaisijan nimeä, ota käyttöön teeman asetus *Nimi logon alla*.
 
-##### Yläpalkin kuva
+#### Yläpalkin kuva
 
 **Ulkoasu > Asetukset > Etusivun kuva**
 
@@ -106,13 +104,13 @@ Teema käyttää asetuksissa olevaa Etusivun kuvaa yläpalkin taustakuvana.
 
 - Toistuva kuvio: lataa kuvion yksi ruutu ja ota käyttöön teeman asetus *Ylätunnistekuvion toisto*.
 
-##### Pikkukuva (thumbnail)
+#### Pikkukuva (thumbnail)
 
 **Ulkoasu > Asetukset > Julkaisun pikkukuva (OJS) / Julkaisijan pikkukuva (OMP)**
 
 Pikkukuva näkyy mobiililaitteiden yläpalkissa, jos teeman asetus *Logo mobiiliylätunnisteessa* on "Pikkukuva". Yläpalkki on matala, joten pieni ja selkeä kuva, esimerkiksi logon tunnusosa ilman tekstiä, toimii parhaiten. OMP:ssä pikkukuvalla on lisäksi toinen käyttötarkoitus (ks. OMP-osio).
 
-##### Lehden tai julkaisijan kuvaus
+#### Lehden tai julkaisijan kuvaus
 
 **Asetukset > Julkaisu > Tunnuslaatikko > *Julkaisu lyhyesti* (OJS) / Asetukset > Julkaisija > Tunnuslaatikko > *Julkaisijan yhteenveto* (OMP)**
 
@@ -127,7 +125,7 @@ Tämä lyhyt kuvaus näkyy teemassa useassa paikassa:
 - Käytä pelkkää tekstiä: ei otsikoita, kuvia, taulukoita tai pitkiä linkkilistoja. Kuvaus näkyy kapeassa tilassa alatunnisteessa.
 - Pidempi esittely kuuluu *Tietoa lehdestä / julkaisijasta* -sivulle ja etusivun lisäsisältöön.
 
-##### Etusivun lisäsisältö
+#### Etusivun lisäsisältö
 
 **Ulkoasu > Lisäasetukset > Lisäsisältö**
 
@@ -135,11 +133,11 @@ Lisäsisältö näkyy etusivun **Etusivun sisältö** -osiossa. Osio pitää val
 
 Jos lisäsisältö on tyhjä, osiossa näytetään sen sijaan lehden tai julkaisijan lyhyt kuvaus. Tällöin sama teksti näkyy etusivulla kahdesti (sisältöosiossa ja alatunnisteessa), joten lisäsisältö kannattaa täyttää.
 
-##### Navigointipalkin muokkaus
+#### Navigointipalkin muokkaus
 
 [Sivustolla näkyvää navigointipalkkia voi muokata erillisen ohjeen avulla](navigointi.md).
 
-##### Sivupalkki ja lohkot
+#### Sivupalkki ja lohkot
 
 **Ulkoasu > Asetukset > Sivupalkki**
 
@@ -159,7 +157,7 @@ Lohkoliitännäiset otetaan käyttöön kohdassa **Asetukset > Verkkosivusto > L
 - Valikkolinkkejä toistavat lohkot ovat usein tarpeettomia, koska päävalikko näkyy sekä ylätunnisteessa että alatunnisteessa.
 - Pidä mukautettujen lohkojen sisältö lyhyenä. Käytä kuvissa kohtuullista kokoa ja lisää niille vaihtoehtoinen teksti.
 
-##### Ilmoitukset
+#### Ilmoitukset
 
 **Asetukset > Verkkosivusto > Asetukset > Ilmoitukset**
 
@@ -170,15 +168,15 @@ Ilmoitukset näkyvät etusivulla vain, jos:
 
 Etusivulla näytetään ilmoituksen otsikko ja lyhyt kuvaus. Kirjoita lyhyt kuvaus niin, että se kertoo olennaisen yhdellä tai kahdella virkkeellä.    
 
-#### OJS (Journal.fi)
+### OJS (Journal.fi)
 
-##### Artikkelisivun sivupalkki
+#### Artikkelisivun sivupalkki
 
 **Ulkoasu > Teema > Artikkelisivun sivupalkki**
 
 Valitse, näytetäänkö sivupalkin lohkot artikkelin sisällön vieressä vai alatunnisteessa. Kun lohkot näytetään sisällön vieressä, niiden yläpuolella on myös "Julkaistu"-lohko (ks. alla). Kaikilla muilla sivuilla lohkot näytetään alatunnisteessa.
 
-##### Etusivun osiot (OJS)
+#### Etusivun osiot (OJS)
 
 Käytettävissä olevat osiot:
 
@@ -190,11 +188,9 @@ Käytettävissä olevat osiot:
 
 **Huom!** Valitse ajankohtaisesta numerosta vain toinen vaihtoehto.
 
----
+### OMP (Edition.fi)
 
-#### OMP (Edition.fi)
-
-##### Etusivun osiot (OMP)
+#### Etusivun osiot (OMP)
 
 Käytettävissä olevat osiot:
 
@@ -216,7 +212,7 @@ Kirja merkitään esittelyyn luettelossa (**Luettelo**, kirjan kohdalla *Esittel
 **Uutuudet**
 Kirja merkitään uutuudeksi luettelossa (**Luettelo**, kirjan kohdalla *Uutuus*). Poista merkintä, kun kirja ei enää ole uutuus.  
 
-##### Pikkukuva Edition.fi-etusivulla
+#### Pikkukuva Edition.fi-etusivulla
 Julkaisijan pikkukuva näytetään **Edition.fi-etusivun julkaisijalistassa** julkaisijan kuvana. Kuva näytetään valkoista taustaa vasten. Se skaalataan pystysuuntaiseen tilaan ja kohdistetaan vasempaan reunaan.
 
 **Suositukset:**
