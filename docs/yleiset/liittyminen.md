@@ -2,9 +2,42 @@
 
 ## 1. Lue palveluiden käyttöehdot
 
-Journal.fi- ja Edition.fi-palveluiden käyttöehdot eroavat hieman toisistaan. Ehdot löydät alla olevista linkeistä.
-- [Journal.fi-palvelun käyttöehdot](https://www.tsv.fi/fi/palvelut/avoimen-julkaisemisen-palvelut/journalfi)
-- [Edition.fi-palvelun käyttöehdot](https://www.tsv.fi/fi/palvelut/avoimen-julkaisemisen-palvelut/editionfi)
+Journal.fi- ja Edition.fi-palveluiden käyttöehdot eroavat hieman toisistaan.
+
+### Journal.fi
+
+**TSV:n jäsenseurat**
+
+* Palvelu on jäsenseuroille ilmainen.
+* Jos seura julkaisee lehteään palvelussa, artikkelien on oltava avoimesti saatavilla enintään vuoden viiveellä julkaisuajankohdasta.
+* Tilauspohjaiset lehdet voivat käyttää palvelua käsikirjoitusten vastaanottoon ja toimitustyöhön.
+* Lehden ei tarvitse olla vertaisarvioitu, eikä sillä tarvitse olla Jufo-luokitusta.
+
+**TSV:n ulkopuoliset julkaisijat**
+
+* Palvelun käytöstä veloitetaan erillisen hinnaston mukaan.
+* Julkaisun on oltava välittömästi ja kokonaan avoin ja ilmestyttävä säännöllisesti vähintään kerran vuodessa.
+* Julkaisun on tuotava esiin tieteellisen tutkimuksen tuloksia. Tämä osoitetaan Jufo-tasoilla 1–3 tai oikeudella käyttää TSV:n vertaisarviointitunnusta.
+* Julkaisijan on oltava suomalainen, tai kyseessä on oltava yhteisjulkaisu, jossa on vähintään yksi suomalainen julkaisija.
+
+### Edition.fi
+
+**TSV:n jäsenseurat**
+
+* Palvelu on jäsenseuroille ilmainen.
+* Jos seura julkaisee kirjojaan palvelussa, niiden on oltava vapaasti kaikkien luettavissa.
+* Palvelua voi käyttää myös maksullisten kirjojen käsikirjoitusten vastaanottoon ja toimitustyöhön.
+* Kirjan ei tarvitse olla vertaisarvioitu, eikä kustantajalla tarvitse olla Jufo-luokitusta, mutta kirjalla on oltava ISBN-tunnus.
+
+**TSV:n ulkopuoliset julkaisijat**
+
+* Palvelun käytöstä veloitetaan erillisen hinnaston mukaan.
+* Palvelussa toimitettavien tai julkaistavien teosten on oltava vapaasti kaikkien luettavissa.
+* Teosten on tuotava esiin tieteellisen tutkimuksen tuloksia. Tämä osoitetaan Jufo-tasoilla 1–3 tai oikeudella käyttää TSV:n vertaisarviointitunnusta.
+* Teoksilla on oltava ISBN-tunnus.
+* Kustantajan kotipaikan on oltava Suomi.
+
+Lisätietoja: [Avoimen julkaisemisen palvelut](https://tsv.fi/fi/arviointi-ja-avoimuus/tiedejulkaiseminen/avoimen-julkaisemisen-palvelut)
 
 ## 2. Ota yhteyttä Tieteellisten seurain valtuuskuntaan
 
