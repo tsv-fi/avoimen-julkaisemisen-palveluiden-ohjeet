@@ -9,14 +9,14 @@ docs_dir: docs
 theme:
   name: material
   language: fi
-  logo: _media/logo-tsv-white.png
-  favicon: _media/logo-tsv.png
+  logo: _media/logo-tsv.svg
+  favicon: _media/favicon-tsv.svg
   palette:
     - scheme: default
       primary: custom
       accent: custom
   font:
-    text: Open Sans
+    text: Barlow
     code: Roboto Mono
   features:
     - navigation.tabs        # päänavigaatio ylös, kuten Docsifyn sivupalkin pääotsikot

@@ -1,24 +1,145 @@
-/* TSV:n väriteema, poimittu nykyisen Docsify-sivuston index.html:stä
-   (--theme-color / --sidebar-background: #401c4a) */
+/* TSV:n visuaalinen ilme, poimittu tsv.fi-sivuston tyyleistä (2026).
+   Leipäteksti: Barlow (ladataan mkdocs.yml:n theme.font-asetuksella),
+   otsikot: Barlow Condensed, sitaatit: Labrada. */
+@import url("https://fonts.googleapis.com/css2?family=Barlow:wght@500;600&family=Barlow+Condensed:wght@600;700&family=Labrada:wght@400&display=swap");
+
 :root {
-  --md-primary-fg-color: #401c4a;
-  --md-primary-fg-color--light: #6a3f75;
-  --md-primary-fg-color--dark: #2b0f33;
-  --md-accent-fg-color: #401c4a;
-  --md-accent-fg-color--transparent: #401c4a1a;
+  --tsv-rust: #69230a;
+  --tsv-rust-dark: #4f1a07;
+  --tsv-cream: #f9f7f2;
+  --tsv-beige: #f7e9d1;
+  --tsv-ochre: #cc990c;
+  --tsv-stone: #eceae2;
+  --tsv-text: #181818;
+
+  --md-primary-fg-color: var(--tsv-rust);
+  --md-primary-fg-color--light: #8a3a1c;
+  --md-primary-fg-color--dark: var(--tsv-rust-dark);
+  --md-primary-bg-color: var(--tsv-cream);
+  --md-accent-fg-color: var(--tsv-rust);
+  --md-accent-fg-color--transparent: #69230a1a;
+
+  --md-default-fg-color: var(--tsv-text);
+  --md-typeset-color: var(--tsv-text);
+  --md-typeset-a-color: var(--tsv-rust);
+
+  --md-footer-bg-color: var(--tsv-rust);
+  --md-footer-bg-color--dark: var(--tsv-rust-dark);
+  --md-footer-fg-color: var(--tsv-cream);
+
+  --tsv-heading-font: "Barlow Condensed", "Arial Narrow", Helvetica, Arial, sans-serif;
 }
 
-/* Otsikkofontti, kuten nykyisessä sivustossa (Oswald) */
+/* Ylätunniste ja välilehdet: kermanvärinen tausta, ruosteenruskea teksti kuten tsv.fi:ssä */
 .md-header,
-.md-nav,
-h1, h2, h3, h4 {
-  font-family: "Oswald", "Open Sans", sans-serif;
+.md-tabs,
+.md-nav--primary .md-nav__title[for=__drawer] {
+  --md-primary-fg-color: var(--tsv-cream);
+  --md-primary-bg-color: var(--tsv-rust);
+  --md-primary-bg-color--light: #69230ab3;
+  --md-accent-fg-color: var(--tsv-rust);
+  background-color: var(--tsv-cream);
+  color: var(--tsv-rust);
 }
-
+.md-header {
+  border-bottom: 1px solid var(--tsv-beige);
+}
+.md-header--shadow {
+  box-shadow: none;
+}
+.md-tabs {
+  border-bottom: 1px solid var(--tsv-beige);
+}
+.md-header__title,
+.md-tabs__link {
+  font-family: var(--tsv-heading-font);
+  font-weight: 600;
+}
+.md-tabs__link {
+  font-size: .8rem;
+}
+.md-nav__title .md-nav__button.md-logo img {
+  height: 2rem;
+}
 
 .md-header__button.md-logo {
   display: none;
 }
 [dir=ltr] .md-header__title {
   margin-left: 0;
+}
+@media screen and (min-width: 60em) {
+  .md-search__form,
+  .md-search__input {
+    background-color: #fff;
+  }
+  .md-search__form {
+    border: 1px solid var(--tsv-beige);
+  }
+}
+
+/* Otsikot */
+.md-typeset h1,
+.md-typeset h2,
+.md-typeset h3,
+.md-typeset h4 {
+  color: var(--tsv-rust);
+  font-family: var(--tsv-heading-font);
+  letter-spacing: -0.02em;
+  line-height: 1.1;
+}
+.md-typeset h1 {
+  font-weight: 700;
+}
+.md-typeset h2,
+.md-typeset h3,
+.md-typeset h4 {
+  font-weight: 600;
+}
+
+/* Linkit: alleviivaus, hover-tilassa katkoviiva */
+.md-typeset a {
+  text-decoration: underline;
+  text-decoration-thickness: 1px;
+  text-underline-offset: .085em;
+}
+.md-typeset a:hover,
+.md-typeset a:focus {
+  text-decoration-style: dashed;
+}
+.md-typeset .headerlink {
+  text-decoration: none;
+}
+
+/* Sitaatit */
+.md-typeset blockquote {
+  border-left-color: var(--tsv-ochre);
+  color: var(--tsv-rust);
+  font-family: "Labrada", Georgia, "Times New Roman", serif;
+}
+
+/* Taulukot */
+.md-typeset table:not([class]) {
+  border: none;
+}
+.md-typeset table:not([class]) th {
+  background-color: var(--tsv-beige);
+  font-weight: 500;
+}
+.md-typeset table:not([class]) td,
+.md-typeset table:not([class]) th {
+  border: 1px solid var(--tsv-cream);
+}
+.md-typeset table:not([class]) tbody tr:nth-child(even) td {
+  background-color: var(--tsv-cream);
+  border-color: #fff;
+}
+.md-typeset table:not([class]) tbody tr:hover {
+  background-color: var(--tsv-stone);
+  box-shadow: none;
+}
+
+/* Alatunniste */
+.md-footer-meta {
+  background-color: var(--tsv-rust-dark);
 }
