@@ -3,7 +3,8 @@
    otsikot: Barlow Condensed, sitaatit: Labrada. */
 @import url("https://fonts.googleapis.com/css2?family=Barlow:wght@500;600&family=Barlow+Condensed:wght@600;700&family=Labrada:wght@400&display=swap");
 
-:root {
+:root,
+[data-md-color-scheme=default] {
   --tsv-rust: #69230a;
   --tsv-rust-dark: #4f1a07;
   --tsv-cream: #f9f7f2;
@@ -24,7 +25,7 @@
   --md-typeset-a-color: var(--tsv-rust);
 
   --md-footer-bg-color: var(--tsv-rust);
-  --md-footer-bg-color--dark: var(--tsv-rust-dark);
+  --md-footer-bg-color--dark: var(--tsv-rust);
   --md-footer-fg-color: var(--tsv-cream);
 
   --tsv-heading-font: "Barlow Condensed", "Arial Narrow", Helvetica, Arial, sans-serif;
@@ -149,6 +150,19 @@
 }
 
 /* Alatunniste */
+/* Edellinen/seuraava-palkki beigenä, alin kaistale ruosteenruskeana */
+.md-footer {
+  --md-footer-bg-color: var(--tsv-beige);
+}
+.md-footer__inner {
+  --md-footer-fg-color: var(--tsv-rust);
+  --md-footer-fg-color--light: #69230ab3;
+  color: var(--md-footer-fg-color);
+}
 .md-footer-meta {
-  background-color: var(--tsv-rust-dark);
+  background-color: var(--tsv-rust);
+}
+.md-footer__title {
+  font-family: var(--tsv-heading-font);
+  font-weight: 600;
 }
