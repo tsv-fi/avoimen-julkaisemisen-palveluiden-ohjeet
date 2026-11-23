@@ -48,7 +48,9 @@ Jos julkaisusarjan tai julkaisijan tiedot löytyvät jo palvelusta, tietojen mah
 
 #### Julkaisija puuttuu kokonaan palvelusta
 
-Mikäli sekä julkaisijan että lisättävän sarjan tiedot puuttuvat palvelusta, [julkaisijan tiedot tallennetaan palveluun ensimmäisen sarjan lisäämisen yhteydessä käyttämällä tätä lomaketta (englanniksi).](https://www.jisc.ac.uk/forms/submit-a-new-record-for-a-publisher-not-already-listed-in-open-policy-finder). 
+Open Policy Finder ottaa uusia julkaisijoita vastaan kansallisten yhteistyösopimusten kautta. Suomalaiset julkaisijat lisätään Tieteellisten seurain valtuuskunnan (TSV) kanssa tehdyn sopimuksen perusteella.
+
+Lähetä ilmoitus sähköpostitse osoitteeseen [help@jisc.ac.uk](mailto:help@jisc.ac.uk?subject=Open%20Policy%20Finder) ja kirjoita viestin otsikkoon "Open Policy Finder". Mainitse viestissä, että kyseessä on suomalainen julkaisija ja ilmoitus tehdään TSV:n sopimuksen kautta. Liitä viestiin julkaisijan nimi sekä jokaisesta lisättävästä sarjasta nimi, verkko-osoite ja ISSN-tunnukset.
 
 #### Julkaisija on palvelussa, mutta julkaisusarja puuttuu
 
