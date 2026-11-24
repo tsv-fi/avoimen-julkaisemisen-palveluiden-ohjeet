@@ -2,7 +2,7 @@
 
 ## Mikä ja miksi?
 
-**Open Policy Finder** on palvelu, josta voi tarkistaa julkaisijan suhtautumisen rinnakkaistallentamiseen. Oman käytännön ilmoittaminen säästää siis julkaisuarkistojen työaikaa, koska julkaisijan rinnakkastallennuslinjauksen voi tarkistaa keskitetysti yhdestä paikasta. Palvelusta löytyy myös muita tietoja julkaisusarjoja koskien, kuten esimerkiksi tieto käytössä olevista lisensseistä ja mahdollisesta embargosta.
+**Open Policy Finder** on palvelu, josta voi tarkistaa julkaisijan suhtautumisen rinnakkaistallentamiseen. Oman käytännön ilmoittaminen säästää siis julkaisuarkistojen työaikaa, koska julkaisijan rinnakkaistallennuslinjauksen voi tarkistaa keskitetysti yhdestä paikasta. Palvelusta löytyy myös muita tietoja julkaisusarjoja koskien, kuten esimerkiksi tieto käytössä olevista lisensseistä ja mahdollisesta embargosta.
 
 Open Policy Finder -palvelu käytti aiemmin nimeä **Sherpa Romeo**.
 
@@ -10,11 +10,10 @@ Rinnakkaistallentaminen tehostaa osaltaan artikkeleiden ja koko julkaisusarjan s
 
 Palveluun rekisteröityminen on ilmaista ja vaatii vain kertaluontoisen työpanoksen. Julkaisijan on myös mahdollista ilmoittaa kerralla kaikki julkaisusarjat, joilla sama politiikka. Mahdolliset muutokset tulee kuitenkin päivittää palveluun mahdollisimman pian.
 
-Lisätietoja rinnakkaistallennuksesta löytyy esimerkiksi Jyväskylän yliopiston kotisivuilta:
+Lisätietoja rinnakkaistallennuksesta, esimerkiksi artikkelin eri versioista ja tallennusluvista, löytyy ainakin yliopistojen sivuilta:
 
-* [https://openscience.jyu.fi/fi/rinnakkaistallentaminen/tallennusluvat](https://openscience.jyu.fi/fi/rinnakkaistallentaminen/tallennusluvat)
-* [https://openscience.jyu.fi/fi/rinnakkaistallentaminen/artikkelin-eri-versiot](https://openscience.jyu.fi/fi/rinnakkaistallentaminen/artikkelin-eri-versiot)
-* [https://openscience.jyu.fi/fi/rinnakkaistallentaminen/rinnakkaistallentamisen-hyodyt](https://openscience.jyu.fi/fi/rinnakkaistallentaminen/rinnakkaistallentamisen-hyodyt)
+* [Jyväskylän yliopisto: Rinnakkaistallentaminen](https://www.jyu.fi/fi/tutkimus/julkaiseminen-jyvaskylan-yliopistossa/rinnakkaistallentaminen)
+* [Helsingin yliopiston kirjasto: Rinnakkaistallennus](https://www.helsinki.fi/fi/helsingin-yliopiston-kirjasto/tutkijan-kirjasto/rinnakkaistallennus)
 
 Open Policy Finder -palvelun [omat käyttöohjeet löytyvät palvelun kotisivuilta](https://openpolicyfinder.jisc.ac.uk/help).
 

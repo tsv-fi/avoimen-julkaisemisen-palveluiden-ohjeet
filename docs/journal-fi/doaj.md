@@ -86,7 +86,7 @@ Kuvauksia ja asetuksia ei tarvitse kirjoittaa DOAJ-hakemusta varten englanniksi,
 * **Rinnakkaistallennus**
     * Anna kuvaus suhtautumisesta rinnakkaistallennukseen kohtaan **Asetukset > Julkaisu > Tunnuslaatikko > Tietoa julkaisusta. Inställningar > Tidskrift > Redaktionsruta >** **Om tidskriften. Settings > Journal > Masthead > About the Journal.**
     * Muista huomioida mitä käsikirjoituksen versiota linjaukset koskevat
-    * Rinnakkaistallennusta koskevat tiedot on tärkeää toimittaa myös Sherpa Romeo -tietokantaan.
+    * Rinnakkaistallennusta koskevat tiedot on tärkeää toimittaa myös Open Policy Finder -palveluun (entinen Sherpa Romeo).
 * **Artikkeleiden pysyvät tunnisteet**
     * Journal.fi-palvelussa olevat lehdet voivat ottaa käyttöön DOI-tunnukset. Katso DOI-tunnisteiden käyttöä koskeva ohje.
 * **ORCID-tunnisteet**
